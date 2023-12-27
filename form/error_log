@@ -1,0 +1,4 @@
+[20-Jun-2023 15:05:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xw2wi81jgwbf/public_html/form/PHPMailerAutoload.php on line 35
+[20-Jun-2023 08:15:23 America/Phoenix] PHP Notice:  Undefined index: sendmethod in /home/xw2wi81jgwbf/public_html/form/form.php on line 3457
+[20-Jun-2023 08:15:23 America/Phoenix] PHP Notice:  Undefined index: sendmethod in /home/xw2wi81jgwbf/public_html/form/form.php on line 3464
+[20-Jun-2023 08:15:23 America/Phoenix] PHP Notice:  Undefined index: sendmethod in /home/xw2wi81jgwbf/public_html/form/form.php on line 3491

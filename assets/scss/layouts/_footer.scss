@@ -1,0 +1,103 @@
+.footer {
+    background: #FFFFFF;
+    padding-top: 224px;
+    overflow: hidden;
+    &__content {
+        text-align: center;
+        max-width: 877px;
+        margin-inline: auto;
+
+        h5 {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 36px;
+            line-height: 100%;
+            text-transform: uppercase;
+            color: #000000;
+        }
+
+        p {
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 130%;
+            // text-transform: capitalize;
+            text-align: center;
+            color: #000000;
+            margin: 36px 0 53px;
+        }
+    }
+
+    &__graphic {
+        padding: 24px 0 50px;
+        text-align: center;
+    }
+
+    &__bottom {
+        padding: 55px 0 0;
+        border-top: 1px solid rgba(0, 0, 0, 0.2);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        a,
+        p {
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 100%;
+
+            color: #000000;
+
+        }
+    }
+
+    &__navigation{
+        display: flex;
+        align-items: center;
+        gap: 32px;
+    }
+   
+    &__nav, &__ptnc{
+        display: flex;
+        gap: 50px;
+        padding-top: 22px;
+    }
+
+    .container-fluid{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+.f-logo{
+    img{
+        max-width: 211px;
+    }
+}
+.footer__copyright{
+    padding: 25px 0 35px;
+    p{
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 100%;
+        text-align: center;
+        color: #000;
+    }
+}
+.smallTextF{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: -220px;
+    p{
+        color: #000;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 130%;
+        text-align: center;
+        font-family: $fontHeading;
+        a{
+            font-size: inherit;
+            color: #FF4800;
+        }
+    }
+}
