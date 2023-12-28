@@ -213,7 +213,7 @@ $videos = [
         'scope' => 'public'
     ],
     [
-        'title' => "Taking the 'Digital Nomad' to the next level",
+        'title' => 'Taking the "Digital Nomad" to the next level',
         'videoID' => "8uRXtcuIDxE",
         'category' => "short",
         'scope' => 'public'
