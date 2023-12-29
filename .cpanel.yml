@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/xw2wi81jgwbf/public_html
+    - export DEPLOYPATH=/home/xw2wi81jgwbf/staging.digitallocations.com
     - /bin/cp * $DEPLOYPATH
