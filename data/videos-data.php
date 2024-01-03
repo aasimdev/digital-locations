@@ -2,10 +2,10 @@
 
 $videos = [
     [
-        'title' => "Dale Hamilton - Northwest Nazarene University",
+        'title' => "December 29, 2023 - Dale Hamilton - Northwest Nazarene University",
         'videoID' => "nBHUHr2KzV4",
         'category' => "ceo-podcast",
-        'scope' => 'private'
+        'scope' => 'public'
     ],
     [
         'title' => "Arjuna Madanayake & Ted Rappaport",

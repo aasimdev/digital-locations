@@ -103,6 +103,16 @@ include('header.php'); ?>
     <div class="ceochats-carousel">
     <div class="cchat">
             <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nBHUHr2KzV4"></a>
+                <div class="podcast__itemThumbnail">
+                    <img src="https://img.youtube.com/vi/nBHUHr2KzV4/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
+        </div>
+    <div class="cchat">
+            <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
                 <div class="podcast__itemThumbnail">
                     <img src="https://img.youtube.com/vi/mdEP3Qx6bl0/maxresdefault.jpg" alt="chat">
