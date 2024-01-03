@@ -109,7 +109,7 @@ include('header.php'); ?>
                 </div>
                 <i class="far fa-play-circle"></i>
             </div>
-            <p>Dale Hamilton - Northwest Nazarene University</p>
+            <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
         </div>
     <div class="cchat">
             <div class="cchat-box">
