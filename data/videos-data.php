@@ -2,10 +2,10 @@
 
 $videos = [
     [
-        'title' => "December 29, 2023 - Dale Hamilton - Northwest Nazarene University",
+        'title' => "Dale Hamilton - Northwest Nazarene University",
         'videoID' => "nBHUHr2KzV4",
         'category' => "ceo-podcast",
-        'scope' => 'public'
+        'scope' => 'private'
     ],
     [
         'title' => "Arjuna Madanayake & Ted Rappaport",
@@ -206,15 +206,69 @@ $videos = [
         'category' => "news-commentary",
         'scope' => 'public'
     ],
-      [
-        'title' => "Generation Entrepreneur is Here!",
-        'videoID' => "WGesqkWIMpg",
+    [
+        'title' => "From Switch to Smartphone....",
+        'videoID' => "XqCu8ATVUG8",
         'category' => "short",
         'scope' => 'public'
     ],
     [
-        'title' => 'Taking the "Digital Nomad" to the next level',
-        'videoID' => "8uRXtcuIDxE",
+        'title' => "The Explosion of Indie Animation....",
+        'videoID' => "oNaBkmmJMFU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Bridging the generational gap!",
+        'videoID' => "p7q-TVnd8b8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Attend your morning meeting",
+        'videoID' => "CPmtOUSXU9I",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Modern problems require a modern education!",
+        'videoID' => "bTMnN20tr-U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Never miss a moment",
+        'videoID' => "QZflvt9zCt0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "War and Life Alike",
+        'videoID' => "hY4jzC1gooY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Shooting Star of Connectivity!",
+        'videoID' => "3HZZiG2O-tU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Always stay up-to-date",
+        'videoID' => "1ZliLrZ2zYI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Taking the Digital Nomad to the next level",
+        'videoID' => "ekbz7EbB4Hk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Generation Entrepreneur is Here!",
+        'videoID' => "WGesqkWIMpg",
         'category' => "short",
         'scope' => 'public'
     ],
