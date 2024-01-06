@@ -1,5 +1,12 @@
 $(function () {
-
+    // $(window).scroll(function(){
+    //     if ($(window).scrollTop() >= 40) {
+    //       $('.header-top').css('background', "#0f0f47");
+    //      }
+    //      else {
+    //       $('.header-top').css('background', "transparent");
+    //      }
+    //   });
     const teamModal = new bootstrap.Modal(document.getElementById('team'));
     $('.biography-btn').on('click', function (e) {
         e.preventDefault();

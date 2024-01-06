@@ -81,7 +81,7 @@
             </div>
         </div>
         <div class="footer__copyright">
-            <p>Copyright © 2023 Digital Locations</p>
+            <p>Copyright © 2024 Digital Locations</p>
         </div>
     </div>
 </footer>
