@@ -207,6 +207,48 @@ $videos = [
         'scope' => 'public'
     ],
     [
+        'title' => "Curiouser and curiouser...",
+        'videoID' => "dJcgqNy5Pjs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Mobile Gaming's On the Rise",
+        'videoID' => "RBbDYy9qiEo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Of the Times, Just on Time!",
+        'videoID' => "TlyCYsIGs60",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Here's What We Did in 2023!",
+        'videoID' => "NMLRPNDJ99E",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Never miss a moment again",
+        'videoID' => "6mL4NOY93mc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The New Age of Online Learning!",
+        'videoID' => "enIMjJqeqHo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Open Doors, Internationally",
+        'videoID' => "8e9nm78QFsc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
         'title' => "From Switch to Smartphone....",
         'videoID' => "XqCu8ATVUG8",
         'category' => "short",
