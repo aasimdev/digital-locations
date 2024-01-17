@@ -2,10 +2,10 @@
 
 $videos = [
     [
-        'title' => "December 29, 2023 - Dale Hamilton - Northwest Nazarene University",
+        'title' => "Dale Hamilton - Northwest Nazarene University",
         'videoID' => "nBHUHr2KzV4",
         'category' => "ceo-podcast",
-        'scope' => 'public'
+        'scope' => 'private'
     ],
     [
         'title' => "Arjuna Madanayake & Ted Rappaport",
@@ -206,15 +206,111 @@ $videos = [
         'category' => "news-commentary",
         'scope' => 'public'
     ],
-      [
-        'title' => "Generation Entrepreneur is Here!",
-        'videoID' => "WGesqkWIMpg",
+    [
+        'title' => "Curiouser and curiouser...",
+        'videoID' => "dJcgqNy5Pjs",
         'category' => "short",
         'scope' => 'public'
     ],
     [
-        'title' => 'Taking the "Digital Nomad" to the next level',
-        'videoID' => "8uRXtcuIDxE",
+        'title' => "Mobile Gaming's On the Rise",
+        'videoID' => "RBbDYy9qiEo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Of the Times, Just on Time!",
+        'videoID' => "TlyCYsIGs60",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Here's What We Did in 2023!",
+        'videoID' => "NMLRPNDJ99E",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Never miss a moment again",
+        'videoID' => "6mL4NOY93mc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The New Age of Online Learning!",
+        'videoID' => "enIMjJqeqHo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Open Doors, Internationally",
+        'videoID' => "8e9nm78QFsc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "From Switch to Smartphone....",
+        'videoID' => "XqCu8ATVUG8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Explosion of Indie Animation....",
+        'videoID' => "oNaBkmmJMFU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Bridging the generational gap!",
+        'videoID' => "p7q-TVnd8b8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Attend your morning meeting",
+        'videoID' => "CPmtOUSXU9I",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Modern problems require a modern education!",
+        'videoID' => "bTMnN20tr-U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Never miss a moment",
+        'videoID' => "QZflvt9zCt0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "War and Life Alike",
+        'videoID' => "hY4jzC1gooY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Shooting Star of Connectivity!",
+        'videoID' => "3HZZiG2O-tU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Always stay up-to-date",
+        'videoID' => "1ZliLrZ2zYI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Taking the \"Digital Nomad\" to the next level",
+        'videoID' => "ekbz7EbB4Hk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Generation Entrepreneur is Here!",
+        'videoID' => "WGesqkWIMpg",
         'category' => "short",
         'scope' => 'public'
     ],
