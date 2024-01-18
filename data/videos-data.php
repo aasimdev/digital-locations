@@ -207,6 +207,47 @@ $videos = [
         'scope' => 'public'
     ],
     [
+        'title' => "Think About Them",
+        'videoID' => "BxXrlH8V1qk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Every Student's Best Friend!",
+        'videoID' => "v4CpM53ljx8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "What to Expect from the Internet in 2024",
+        'videoID' => "NTFPcKXunlI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Nostalgia for the Modern World",
+        'videoID' => "llQ7feGMXIQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "There When Connection is Most Important",
+        'videoID' => "Qm_Y7dLXUaU",
+        'category' => "short",
+        'scope' => 'public'
+    ], [
+        'title' => "Learn, Work, Create, Explore",
+        'videoID' => "qndkq_kRWhg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The New Age of Exploration",
+        'videoID' => "RB0vN7AJSCc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
         'title' => "Curiouser and curiouser...",
         'videoID' => "dJcgqNy5Pjs",
         'category' => "short",
