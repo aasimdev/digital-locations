@@ -2,6 +2,18 @@
 
 $videos = [
     [
+        'title' => "January 26, 2024 - Dr. Dale Hamilton - Northwest Nazarene University",
+        'videoID' => "c3H7luPsmzM",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
+        'title' => "January 25, 2024 - Eric Ingram - Scout Space",
+        'videoID' => "bxliZMgE1aw",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
         'title' => "Dale Hamilton - Northwest Nazarene University",
         'videoID' => "nBHUHr2KzV4",
         'category' => "ceo-podcast",
