@@ -13,7 +13,7 @@ include('header.php'); ?>
         <div class="row align-items-center">
             <div class="col-lg-6 offset-lg-6">
                 <div class="banner__content">
-                    <h1>A Disruptive Satellite to Smartphone Technology</h1>
+                    <h1>A Breakthrough Satellite to Smartphone Technology</h1>
                     <p>High-speed Internet for a World of More than 8 billion People</p>
                     <div class="banner__video">
                         <div class="banner__vidThumbnail">
@@ -59,7 +59,7 @@ include('header.php'); ?>
                 <div class="bPoints__item">
                     <h5>01</h5>
                     <p>To help connect a world of more than 8 billion people, Digital Locations is
-                        developing a disruptive technology that will deliver high-speed Internet from satellites directly to smartphones.</p>
+                        developing Satenna<sup>TM</sup> a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -72,7 +72,7 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>03</h5>
-                    <p>Elon Musk (SpaceX), Jeff Bezos (Blue Origin) and others are launching thousands of Low Earth Orbit (LEO) satellites. Unfortunately, without the use of additional equipment, the technology does not yet exist that will allow these satellites to deliver high-speed Internet directly to smartphones </p>
+                    <p>Elon Musk (SpaceX), Jeff Bezos (Blue Origin) and others are launching tens of thousands of Low Earth Orbit (LEO) satellites. Unfortunately, without the use of additional equipment, the technology does not yet exist that will allow these satellites to deliver high-speed Internet directly to smartphones.  </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -86,13 +86,13 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>05</h5>
-                    <p>Working with a research team from Florida International University, Digital Locations has accepted the challenge. We are developing a disruptive technology that will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
+                    <p>Working with a research team from Florida International University, Digital Locations developing Satenna<sup>TM</sup>, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers. </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>06</h5>
-                    <p>Our disruptive technology will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, telework, participation in public affairs and even Netflix, Amazon and much, much more.</p>
+                    <p>Satenna<sup>TM</sup> will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, remote, participation in public affairs and even Netflix, Amazon and much, much more.</p>
                 </div>
             </div>
         </div>
