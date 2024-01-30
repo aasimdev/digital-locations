@@ -3,7 +3,7 @@
 $videos = [
     [
         'title' => "January 26, 2024 - Dr. Dale Hamilton - Northwest Nazarene University",
-        'videoID' => "c3H7luPsmzM",
+        'videoID' => "SWXeh39DF2Q",
         'category' => "ceo-podcast",
         'scope' => 'private'
     ],
