@@ -2,6 +2,18 @@
 
 $videos = [
     [
+        'title' => "January 30, 2024 - Professor Andrew Robson - University of New England (AU)",
+        'videoID' => "SWXeh39DF2Q",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
+        'title' => "January 25, 2024 - Eric Ingram - Scout Space",
+        'videoID' => "bxliZMgE1aw",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
         'title' => "Dale Hamilton - Northwest Nazarene University",
         'videoID' => "nBHUHr2KzV4",
         'category' => "ceo-podcast",
@@ -204,6 +216,47 @@ $videos = [
         'title' => "Jun 29, 2023 - Government Investment in High Speed Internet",
         'videoID' => "ODnzgsMr07s",
         'category' => "news-commentary",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Think About Them",
+        'videoID' => "BxXrlH8V1qk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Every Student's Best Friend!",
+        'videoID' => "v4CpM53ljx8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "What to Expect from the Internet in 2024",
+        'videoID' => "NTFPcKXunlI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Nostalgia for the Modern World",
+        'videoID' => "llQ7feGMXIQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "There When Connection is Most Important",
+        'videoID' => "Qm_Y7dLXUaU",
+        'category' => "short",
+        'scope' => 'public'
+    ], [
+        'title' => "Learn, Work, Create, Explore",
+        'videoID' => "qndkq_kRWhg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The New Age of Exploration",
+        'videoID' => "RB0vN7AJSCc",
+        'category' => "short",
         'scope' => 'public'
     ],
     [
