@@ -2,7 +2,7 @@
 
 $videos = [
     [
-        'title' => "January 26, 2024 - Dr. Dale Hamilton - Northwest Nazarene University",
+        'title' => "January 30, 2024 - Professor Andrew Robson - University of New England (AU)",
         'videoID' => "SWXeh39DF2Q",
         'category' => "ceo-podcast",
         'scope' => 'private'
