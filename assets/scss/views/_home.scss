@@ -1312,7 +1312,7 @@
 
         a {
             border-radius: 30px;
-            background: #FF6155;
+            background: #ff4800;
             padding: 18.79px 18.613px 20.21px 17.802px;
             color: #FFF;
             text-align: center;
@@ -2308,7 +2308,7 @@ body.modal-open {
             text-transform: uppercase;
 
             span {
-                color: #FF6155;
+                color: #ff4800;
                 font-weight: 700;
             }
         }
@@ -2319,7 +2319,7 @@ body.modal-open {
 
         h4 {
             border-radius: 0px 37.602px 37.602px 0px;
-            background: linear-gradient(270deg, #FF6155 63.24%, rgba(255, 97, 85, 0.00) 93.41%);
+            background: linear-gradient(270deg, #ff4800 63.24%, rgba(255, 97, 85, 0.00) 93.41%);
             color: #FFF;
             font-family: Inter;
             font-size: 40px;
@@ -2367,7 +2367,7 @@ body.modal-open {
                 &::before {
                     content: '';
                     border-radius: 8px;
-                    background: #FF6155;
+                    background: #ff4800;
                     width: 8px;
                     height: 8px;
                     position: absolute;
@@ -2407,7 +2407,7 @@ body.modal-open {
                     h4 {
                         @media (min-width: 1201px) {
                             border-radius: 37.602px 0px 0px 37.602px;
-                            background: linear-gradient(90deg, #FF6155 63.24%, rgba(255, 97, 85, 0.00) 93.41%);
+                            background: linear-gradient(90deg, #ff4800 63.24%, rgba(255, 97, 85, 0.00) 93.41%);
                             padding-left: 35px;
                         }
                     }
@@ -2457,7 +2457,7 @@ body.modal-open {
                 display: inline-flex;
                 align-items: center;
                 justify-content: center;
-                background-color: #FF6155;
+                background-color: #ff4800;
                 border-radius: 50%;
             }
         }
@@ -2518,7 +2518,7 @@ body.modal-open {
                 display: inline-flex;
                 align-items: center;
                 justify-content: center;
-                background-color: #FF6155;
+                background-color: #ff4800;
                 border-radius: 50%;
             }
         }
