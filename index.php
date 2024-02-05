@@ -14,12 +14,20 @@ include('header.php'); ?>
             <div class="col-lg-6 offset-lg-6">
                 <div class="banner__content">
                     <h1>A Breakthrough Satellite to Smartphone Technology</h1>
-                    <p>High-speed Internet for a World of More than 8 billion People</p>
+                    <p>High-speed Internet for a World
+                        of More than 8 billion People</p>
                     <div class="banner__video">
-                        <div class="banner__vidThumbnail">
+                        <div class="banner__vidThumbnail d-block d-sm-none">
                             <img src="//img.youtube.com/vi/efHi4bJgXs4/maxresdefault.jpg" alt="banner-video">
                         </div>
-                        <a href="https://www.youtube.com/watch?v=efHi4bJgXs4" class="theme-btn popup-youtube">Watch Video</a>
+                        <a href="https://www.youtube.com/watch?v=efHi4bJgXs4" class="theme-btn popup-youtube">
+                            <span> Watch Video</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="44" height="43" viewBox="0 0 44 43" fill="none">
+                                <circle cx="22.0303" cy="21.7935" r="20.6387" stroke="white" />
+                                <path d="M26.7754 22.2935L19.6577 27.6194L19.6577 16.9675L26.7754 22.2935Z" fill="white" />
+                            </svg>
+                        </a>
+
                     </div>
                     <div class="banner-logo">
                         <img src="./assets/img/sia-logo.png" alt="sia">
@@ -38,10 +46,6 @@ include('header.php'); ?>
         <div class="newsletter-wrap">
             <h2>SUBSCRIBE</h2>
             <p>Keep up with our progress by subscribing to our email newsletter!</p>
-            <!-- <form action="./php/subscriber.php" method="POST" id="subscriber-form" autocomplete="off">
-                <input type="email" name="email" id="email" class="form-control" required placeholder="Your email address...">
-                <button type="submit">Subscribe</button>
-            </form> -->
             <div id="icontactSignupFormWrapper253">
                 <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=253&cid=144987&lid=3093&divid=icontactSignupFormWrapper253"></script>
             </div>
@@ -58,41 +62,37 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>01</h5>
-                    <p>To help connect a world of more than 8 billion people, Digital Locations is
-                        developing Satenna<sup>TM</sup> a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world.</p>
+                    <p>To help connect a world of more than 8 billion people, Digital Locations is developing a disruptive technology that will deliver high-speed Internet from satellites directly to smartphones.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>02</h5>
-                    <p>In a digitally divided world of haves and have nots, high-speed Internet is the
-                        great equalizer. However, high-speed Internet is only available in densely populated areas around the world. The rest of the world is still waiting.</p>
+                    <p>In a digitally divided world of haves and have nots, high-speed Internet is the great equalizer. However, high-speed Internet is only available in densely populated areas around the world. The rest of the world is still waiting.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>03</h5>
-                    <p>Elon Musk (SpaceX), Jeff Bezos (Blue Origin) and others are launching tens of thousands of Low Earth Orbit (LEO) satellites. Unfortunately, without the use of additional equipment, the technology does not yet exist that will allow these satellites to deliver high-speed Internet directly to smartphones.  </p>
+                    <p>Elon Musk (SpaceX), Jeff Bezos (Blue Origin) and others are launching thousands of Low Earth Orbit (LEO) satellites. Unfortunately, without the use of additional equipment, the technology does not yet exist that will allow these satellites to deliver high-speed Internet directly to smartphones</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>04</h5>
-                    <p>Connecting these satellites directly with smartphones to receive
-                        high-speed Internet service is technically very challenging but represents an
-                        extraordinary business opportunity.</p>
+                    <p>Connecting these satellites directly with smartphones to receive high-speed Internet service is technically very challenging but represents an extraordinary business opportunity.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>05</h5>
-                    <p>Working with a research team from Florida International University, Digital Locations developing Satenna<sup>TM</sup>, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers. </p>
+                    <p>Working with a research team from Florida International University, Digital Locations has accepted the challenge. We are developing a disruptive technology that will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>06</h5>
-                    <p>Satenna<sup>TM</sup> will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, remote, participation in public affairs and even Netflix, Amazon and much, much more.</p>
+                    <p>Our disruptive technology will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, telework, participation in public affairs and even Netflix, Amazon and much, much more.</p>
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@ include('header.php'); ?>
 
 <section class="pvRecent pb-0">
     <div class="ceochats-carousel">
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nBHUHr2KzV4"></a>
                 <div class="podcast__itemThumbnail">
@@ -111,7 +111,7 @@ include('header.php'); ?>
             </div>
             <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
         </div>
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
                 <div class="podcast__itemThumbnail">
@@ -332,9 +332,7 @@ include('header.php'); ?>
             <div class="connectedPeople__text">
                 <h3>Helping to Connect <br>
                     a World of 8 <br> Billion People</h3>
-                <p>High-speed Internet (also known as broadband Internet) means access to education, healthcare, jobs, entertainment, and equal participation in the modern economy. However, broadband is only available in densely populated areas around the world. The rest of the world is still waiting. In this digitally divided world of haves and have nots, universal broadband access is the great equalizer.
-
-                </p>
+                <p>High-speed Internet (also known as broadband Internet) means access to education, healthcare, jobs, entertainment, and equal participation in the modern economy. However, broadband is only available in densely populated areas around the world. The rest of the world is still waiting. In this digitally divided world of haves and have nots, universal broadband access is the great equalizer.</p>
                 <p>With this kind of demand, it's no wonder that the global broadband market is forecast to double within the decade. Universal high-speed Internet access for all is good for the world, and good for business.</p>
                 <a href="https://www.youtube.com/watch?v=klnuGNg-Hhg" class="theme-btn popup-youtube">Watch Video</a>
             </div>
@@ -373,7 +371,7 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-6 order-lg-1 order-0">
                 <div class="market__content">
-                    <h3>A $419 billion market about to double</h3>
+                    <h3>A $419 billion <br> market about <br> to double</h3>
                     <p>According to <a href="https://www.grandviewresearch.com/industry-analysis/broadband-services-market" target="_blank" rel="noopener noreferrer">Grand View Research</a>, the global broadband market was valued at $419 billion in 2022 and is expected to grow to $875 billion by 2030.
 
                     </p>
@@ -478,7 +476,7 @@ include('header.php'); ?>
         <div class="row gx-sm-5">
             <div class="col-lg-4">
                 <div class="researchTeam__content">
-                    <h4>LEADING RESEARCH TEAM</h4>
+                    <h4>LEADING <br> RESEARCH TEAM</h4>
                     <p>Our research is performed by a leading team of satellite and wireless communication experts at Florida International University (“FIU”). FIU is the eighth largest public university in the country by enrollment and U.S. News and World Report places dozens of FIU programs among the best in the nation. Washington Monthly Magazine ranks FIU among the top 20 public universities contributing to the public good.</p>
                     <p class="mt-3">The FIU Department of Electrical and Computer Engineering (ECE) encompasses a broad range of research and educational interests. It is the policy of the Department to involve each faculty member in a balanced combination of research and teaching to fully benefit the students. Many of the ECE faculty members have considerable industrial experience, and many maintain active consulting roles to provide current and relevant knowledge to the students in classroom and research settings.</p>
                 </div>

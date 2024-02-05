@@ -8,21 +8,27 @@
         margin-inline: auto;
 
         h5 {
+            color: #000;
+            text-align: center;
+            font-family: Inter;
+            font-size: 36px;
             font-style: normal;
             font-weight: 400;
-            font-size: 36px;
-            line-height: 100%;
+            line-height: 36px; /* 100% */
             text-transform: uppercase;
-            color: #000000;
+            max-width: 650px;
+            margin: 0 auto;
         }
 
         p {
-            font-weight: 500;
-            font-size: 20px;
-            line-height: 130%;
-            // text-transform: capitalize;
+            color: #000;
             text-align: center;
-            color: #000000;
+            font-family: Inter;
+            font-size: 17.656px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px; /* 147.257% */
+            letter-spacing: 0.78px;
             margin: 36px 0 53px;
         }
     }
@@ -41,11 +47,12 @@
 
         a,
         p {
+            color: #000;
+            font-family: Inter;
+            font-size: 12.688px;
+            font-style: normal;
             font-weight: 500;
-            font-size: 14px;
-            line-height: 100%;
-
-            color: #000000;
+            line-height: 14px; /* 110.345% */
 
         }
     }
@@ -90,11 +97,13 @@
     margin-top: -220px;
     p{
         color: #000;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 130%;
         text-align: center;
-        font-family: $fontHeading;
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 26px; /* 130% */
+        letter-spacing: 0.78px;
         a{
             font-size: inherit;
             color: #FF4800;
