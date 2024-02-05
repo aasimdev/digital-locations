@@ -16,7 +16,7 @@ include('header.php'); ?>
             <h2>A Disruptive Satellite to Smartphone Technology</h2>
         </div>
         <div class="technologyA__textBox">
-            <p>Digital Locations is developing a disruptive technology that will deliver high-speed Internet from satellites directly to smartphones anywhere in the world, with no dead zones and no need for cell towers.</p>
+            <p>Digital Locations is developing SatennaTM, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones anywhere in the world, with no dead zones and no need for cell towers.</p>
         </div>
     </div>
     <div class="technologyA__graphic">
@@ -45,10 +45,8 @@ include('header.php'); ?>
 <section class="novalaPP">
     <div class="container">
         <div class="novalaPP__content">
-            <h3>A Novel Approach</h3>
-            <p>We intend to overcome this technical challenge by developing a disruptive technology that will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers.
-
-                We aim to redesign the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
+            <h3>SATENNA<sup>TM</sup> – A NOVEL APPROACH</h3>
+            <p>We intend to overcome this technical challenge by developing SatennaTM, a breakthrough technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. SatennaTM will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We are redesigning the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
         </div>
     </div>
     <div class="novalaPP__graphic">
@@ -58,8 +56,8 @@ include('header.php'); ?>
         <div class="row gx-lg-5">
             <div class="col-lg-4">
                 <div class="novalFeature">
-                    <h5>Novel antenna designs</h5>
-                    <p>on the smartphone and satellite sides that are high gain, high bandwidth, and multi-frequency</p>
+                    <h5>Novel Antenna Design</h5>
+                    <p>on the smartphone side that is high gain, high bandwidth, and multi-frequency</p>
                 </div>
             </div>
             <div class="col-lg-4">
