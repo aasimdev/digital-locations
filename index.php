@@ -62,7 +62,7 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>01</h5>
-                    <p>To help connect a world of more than 8 billion people, Digital Locations is developing SatennaTM, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world.</p>
+                    <p>To help connect a world of more than 8 billion people, Digital Locations is developing Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -86,13 +86,13 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>05</h5>
-                    <p>Working with a research team from Florida International University, Digital Locations is developing SatennaTM, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. SatennaTM will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
+                    <p>Working with a research team from Florida International University, Digital Locations is developing Satenna<sup>TM</sup>, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>06</h5>
-                    <p>SatennaTM will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, telework, participation in public affairs and even Netflix, Amazon and much, much more.</p>
+                    <p>Satenna<sup>TM</sup> will dramatically change the world of wireless communications as we know it. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, telework, participation in public affairs and even Netflix, Amazon and much, much more.</p>
                 </div>
             </div>
         </div>
