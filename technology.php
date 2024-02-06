@@ -46,7 +46,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="novalaPP__content">
             <h3>SATENNA<sup>TM</sup> – A NOVEL APPROACH</h3>
-            <p>We intend to overcome this technical challenge by developing SatennaTM, a breakthrough technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. SatennaTM will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We are redesigning the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
+            <p>We intend to overcome this technical challenge by developing Satenna<sup>TM</sup>, a breakthrough technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We are redesigning the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
         </div>
     </div>
     <div class="novalaPP__graphic">
