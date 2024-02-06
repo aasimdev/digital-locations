@@ -16,7 +16,7 @@ include('header.php'); ?>
             <h2>A Disruptive Satellite to Smartphone Technology</h2>
         </div>
         <div class="technologyA__textBox">
-            <p>Digital Locations is developing SatennaTM, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones anywhere in the world, with no dead zones and no need for cell towers.</p>
+            <p>Digital Locations is developing Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones anywhere in the world, with no dead zones and no need for cell towers.</p>
         </div>
     </div>
     <div class="technologyA__graphic">
