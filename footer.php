@@ -13,7 +13,7 @@
         if ($page_name == "index.php") {
         ?>
             <div class="smallTextF">
-                <p>For information about our Small Cells subsidiary company please visit <a href="https://cellsites.digitallocations.com/" target="_blank">here</a></p>
+                <p>For information about our Small Cells subsidiary company <br> please visit <a href="https://cellsites.digitallocations.com/" target="_blank">here</a></p>
             </div>
         <?php } ?>
         <!-- Footer Newsletter -->

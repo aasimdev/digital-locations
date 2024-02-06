@@ -16,6 +16,12 @@ include('header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations Announces Satenna<sup>TM</sup> – a Satellite to Smartphone Antenna Breakthrough  ",
+                'date' => 'February 6, 2024',
+                'description' => 'Digital Locations, Inc. (DLOC), the developer of Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world, today announced that its technology team at Florida International University (FIU) is developing a solution that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites...',
+                'newLink' => "digital-locations-announces-satenna-a-satellite-to-samartphone-antenna-breakthrough"
+            ],
+            [
                 'title' => "Digital Locations Reveals Competitive Analysis ",
                 'date' => 'September 6, 2023',
                 'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of a disruptive technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced the results of the competitive analysis performed by the Florida International University (FIU) tech team...',

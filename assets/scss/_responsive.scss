@@ -281,10 +281,6 @@
         font-size: 32px;
     }
 
-    .inv__quote {
-        padding: 150px 0;
-    }
-
     .contact__form h3 {
         font-weight: 400;
         font-size: 28px;
@@ -309,7 +305,7 @@
 
     .banner__graphic {
         img {
-            max-width: 70%;
+            max-width: 83%;
         }
     }
 
@@ -341,8 +337,7 @@
     }
 
     .banner__content h1 {
-        font-weight: 400;
-        font-size: 36px;
+        font-size: 52px;
     }
 
     .isPossible__mobile {
@@ -364,6 +359,14 @@
 
     .smallcells__right .smallcells__img {
         right: 850px;
+    }
+
+    .investReason__img {
+        max-width: 700px;
+    }
+
+    .investReason__text {
+        max-width: 700px;
     }
 }
 
@@ -404,6 +407,28 @@
     .footer__nav,
     .footer__ptnc {
         gap: 26px;
+    }
+
+    .investReason__head {
+        max-width: 875px;
+    }
+
+    .investReason__head h2 {
+        font-size: 42px;
+    }
+
+    .investReason__text h4 {
+        font-size: 32px;
+        height: 62px;
+    }
+
+    .investReason__img,
+    .investReason__text {
+        max-width: 540px;
+    }
+
+    .investReason .row>div:last-of-type .investReason__text {
+        margin-top: -62px;
     }
 }
 
@@ -819,6 +844,39 @@
         max-width: 295px;
         padding: 0 25px;
     }
+
+    .investReason__img,
+    .investReason__text {
+        max-width: 100%;
+    }
+
+    .investReason__text h4 {
+        padding-left: 32px;
+        background: #ff4800;
+    }
+
+    .investReason__text__wrap {
+        margin-left: 32px;
+        max-width: 100%;
+    }
+
+    .investReason__img {
+        margin: 32px auto;
+        border-radius: 28px;
+        max-width: 800px;
+    }
+
+    .investReason .row>div:last-of-type .investReason__text {
+        margin-top: 0;
+    }
+
+    .investReason .row {
+        margin-top: 32px;
+    }
+
+    .investReason__text {
+        margin-right: 22px;
+    }
 }
 
 @media (max-width: 991px) {
@@ -1049,13 +1107,14 @@
         margin-top: 0;
     }
 
-    .inv__quote {
-        padding: 120px 0;
-    }
+
 
     .inv__quote p {
+        font-size: 32px;
+    }
+
+    .inv__quote__head a {
         font-size: 24px;
-        line-height: 30px;
     }
 
     .company__profile p {
@@ -1119,15 +1178,41 @@
         position: static;
         margin-top: -110px;
     }
+
+    .investReason__img {
+        margin: 32px 0 32px 22px;
+    }
+
+    .investReason .row>div:last-of-type .investReason__text {
+        margin-top: 32px;
+    }
+
+    .investBggray .f_div a {
+        margin-top: 30px;
+    }
+
+    .investBggray .f_div_title~.f_div_title {
+        margin-top: 75px;
+    }
+
+    .s_div {
+        margin-top: 75px;
+    }
+
+    .investBggray .s_div .faqs {
+        padding: 35px 0 0;
+    }
 }
 
 @media (max-width: 767px) {
     .banner {
-        margin-bottom: 120px;
+        margin-bottom: 84px;
     }
+
     .banner-logo {
-        margin-top: 90px;
+        margin-top: 41px;
     }
+
     .bPoints__item {
         max-width: 100%;
     }
@@ -1252,12 +1337,10 @@
     }
 
     .inv__quote {
-        padding: 60px 0;
+        padding: 32px 0;
     }
 
-    .inv__quote p {
-        text-align: left;
-    }
+
 
     .company__profile {
         padding: 68px 0 55px;
@@ -1320,12 +1403,13 @@
 
 @media (max-width: 576px) {
     .banner__content h1 {
-        font-size: 30px;
+        font-size: 37px;
     }
 
     .banner__content p {
         max-width: 100%;
         margin: 30px 0;
+        font-size: 17.813px;
     }
 
     // .banner {
@@ -1341,8 +1425,23 @@
 
 
     .bPoints__item p {
-        font-size: 20px;
+        font-size: 17.813px;
         line-height: 26px;
+    }
+
+    .podcast__itemThumbnail {
+        margin: 0 -8px;
+    }
+
+    .pvRecent .cchat p {
+        color: #FFF;
+        font-family: Inter;
+        font-size: 17.813px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 26px;
+        /* 145.965% */
+        letter-spacing: 0.78px;
     }
 
     .connectedPeople {
@@ -1355,7 +1454,7 @@
     }
 
     .connectedPeople__text p {
-        font-size: 20px;
+        font-size: 17.969px;
     }
 
     .connectedPeople {
@@ -1373,7 +1472,7 @@
 
     .technology__content p,
     .market__content p {
-        font-size: 20px;
+        font-size: 17.969px;
     }
 
     .market__statSource {
@@ -1416,7 +1515,7 @@
     }
 
     .frontier__text p {
-        font-size: 20px;
+        font-size: 17.969px;
     }
 
     .broadband-graphic {
@@ -1438,10 +1537,13 @@
     }
 
     .broadband p {
-        font-size: 20px;
+        font-size: 17.656px;
         margin: 50px 0;
         max-width: 100%;
         text-align: left;
+        color: #000;
+        line-height: 26px;
+        /* 147.257% */
     }
 
     .technology__content h4 {
@@ -1463,6 +1565,7 @@
 
     .researchTeam__teamItem p {
         font-size: 12px;
+        line-height: 14.4px;
     }
 
     .researchTeam__team {
@@ -1520,8 +1623,16 @@
         margin-bottom: -266px;
     }
 
+    .technology__text p {
+        font-size: 15.008px;
+    }
+
     .technology__list {
         margin-top: 27px;
+    }
+
+    .technology__list__item p {
+        font-size: 16.313px;
     }
 
     .broadband {
@@ -1737,7 +1848,7 @@
     }
 
     .banner__graphic {
-        margin: 0 -45px;
+        margin: 0 0 0 -45px;
     }
 
     .technology__graphic {
@@ -1809,6 +1920,7 @@
     .smallcellsText p+p {
         margin-top: 28px;
     }
+
     .short-vidoes .podcast__itemThumbnail {
         height: 665px;
     }
@@ -1820,13 +1932,103 @@
     .podcast-detail h1 {
         font-size: 30px;
     }
+
     .podcast-video iframe {
         height: 260px;
     }
+
     .invest-bar-text p {
         font-size: 18px;
     }
-    .invest-bar{
+
+    .invest-bar {
         padding: 0;
+    }
+
+    .researchTeam__content p {
+        font-size: 15.141px;
+    }
+
+    .banner__video .theme-btn {
+        position: absolute;
+        left: 50%;
+        bottom: 24px;
+        transform: translateX(-50%);
+        justify-content: center;
+        svg{
+            display: none;
+        }
+    }
+    .banner-logo{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .inv__quote p {
+        font-size: 20px;
+    }
+
+    .inv__quote__head a {
+        font-size: 20px;
+        margin-top: 16px;
+        padding: 12px 22px;
+    }
+
+    .inv__quote__video {
+        svg {
+            width: 80px;
+        }
+    }
+
+    .investReason {
+        padding: 50px 0 70px;
+    }
+
+    .investReason__head h2 {
+        font-size: 30px;
+    }
+
+    .investReason__head {
+        margin: 0 auto 26px;
+    }
+
+    .investReason__text {
+        h4 {
+            margin-bottom: 22px;
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 15px;
+            line-height: 20px;
+        }
+
+        ul {
+            li {
+                font-size: 15px;
+                font-weight: 500;
+                line-height: 20px;
+            }
+        }
+    }
+
+    .investBggray {
+        padding: 66px 0 100px;
+    }
+
+    .investBggray .f_div h2, .investBggray .s_div h2 {
+        font-size: 30px;
+    }
+
+    .investBggray .f_div h2 span, .investBggray .s_div h2 span {
+        width: 35px;
+        height: 35px;
+
+        svg {
+            width: 26px;
+        }
+    }
+
+    .investBggray .f_div a {
+        margin-top: 16px;
     }
 }
