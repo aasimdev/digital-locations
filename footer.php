@@ -31,10 +31,21 @@
                     <div id="icontactSignupFormWrapper253">
                         <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=253&cid=144987&lid=3093&divid=icontactSignupFormWrapper253"></script>
                     </div>
-                    
+
                 </div>
+                <?php
+                $page_name = basename($_SERVER['PHP_SELF']);
+                if ($page_name == "news.php" || $page_name == "3reasons.php") {
+                ?>
+                    <div class="fls-text">
+                        <p> Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations, and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Any forward-looking statement made by us in this release is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise, except as may be required under applicable law.
+                        </p>
+                    </div>
+                <?php } ?>
             </div>
         <?php } ?>
+
+
 
         <!-- Footer Mobile Navigation -->
         <div class="footer__nav d-xl-none">
