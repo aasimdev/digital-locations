@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "Investors - Digital Locations";
+$GLOBALS['title'] = "News - Digital Locations";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
