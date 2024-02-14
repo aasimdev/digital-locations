@@ -101,6 +101,16 @@ include('header.php'); ?>
 
 <section class="pvRecent pb-0">
     <div class="ceochats-carousel">
+    <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
+                <div class="podcast__itemThumbnail">
+                    <img src="https://img.youtube.com/vi/mdEP3Qx6bl0/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>February 14, 2024 - Arjuna Madanayake & Ted Rappaport</p>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nBHUHr2KzV4"></a>
@@ -111,16 +121,7 @@ include('header.php'); ?>
             </div>
             <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
         </div>
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
-                <div class="podcast__itemThumbnail">
-                    <img src="https://img.youtube.com/vi/mdEP3Qx6bl0/maxresdefault.jpg" alt="chat">
-                </div>
-                <i class="far fa-play-circle"></i>
-            </div>
-            <p>November 8, 2023 - Arjuna Madanayake & Ted Rappaport</p>
-        </div>
+      
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vfGjXSMCN8E"></a>
