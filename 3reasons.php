@@ -69,7 +69,7 @@ include('header.php'); ?>
                 <div class="investReason__text">
                     <h4><span>3</span>&nbsp;&nbsp;The Right Team</h4>
                     <div class="investReason__img d-lg-none">
-                        <img src="./assets/img/reason2.png" alt="reason">
+                        <img src="./assets/img/reason2.jpg" alt="reason">
                     </div>
                     <div class="investReason__text__wrap">
                         <p>We are working with a top research team at Florida International University (FIU) with extensive wireless and satellite communications experience.</p>
@@ -84,7 +84,7 @@ include('header.php'); ?>
             </div>
             <div class="col-xl-6">
                 <div class="investReason__img d-none d-lg-block">
-                    <img src="./assets/img/reason2.png" alt="reason">
+                    <img src="./assets/img/reason2.jpg" alt="reason">
                 </div>
             </div>
         </div>
