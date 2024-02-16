@@ -16,6 +16,12 @@ include('header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations CEO Rich Berliner Discussed Future of 6G Wireless Technology with Top Industry Experts",
+                'date' => 'February 14, 2024',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world, today announced that in a recent podcast, its CEO, Rich Berliner, spoke with Dr. Ted Rappaport, founding director of NYU Wireless, and Dr. Arjuna Madanayake, Associate Professor at Florida International University, about their work on channel modeling, precision timing, chip design, chip measurement and the future of 6G wireless...',
+                'newLink' => "digital-locations-ceo-rich-berliner-discussed-future-of-6g-wireless-technology-with-top-industry-experts"
+            ],
+            [
                 'title' => "Digital Locations Announces Satenna<sup>TM</sup> – a Satellite to Smartphone Antenna Breakthrough  ",
                 'date' => 'February 6, 2024',
                 'description' => 'Digital Locations, Inc. (DLOC), the developer of Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world, today announced that its technology team at Florida International University (FIU) is developing a solution that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites...',

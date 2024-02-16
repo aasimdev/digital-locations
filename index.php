@@ -18,9 +18,9 @@ include('header.php'); ?>
                         of More than 8 billion People</p>
                     <div class="banner__video">
                         <div class="banner__vidThumbnail d-block d-sm-none">
-                            <img src="//img.youtube.com/vi/efHi4bJgXs4/maxresdefault.jpg" alt="banner-video">
+                            <img src="//img.youtube.com/vi/wJPZSQZQ2X0/maxresdefault.jpg" alt="banner-video">
                         </div>
-                        <a href="https://www.youtube.com/watch?v=efHi4bJgXs4" class="theme-btn popup-youtube">
+                        <a href="https://www.youtube.com/watch?v=wJPZSQZQ2X0" class="theme-btn popup-youtube">
                             <span> Watch Video</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="44" height="43" viewBox="0 0 44 43" fill="none">
                                 <circle cx="22.0303" cy="21.7935" r="20.6387" stroke="white" />
@@ -101,6 +101,16 @@ include('header.php'); ?>
 
 <section class="pvRecent pb-0">
     <div class="ceochats-carousel">
+    <div class="cchat">
+            <div class="cchat-box">
+                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
+                <div class="podcast__itemThumbnail">
+                    <img src="https://img.youtube.com/vi/mdEP3Qx6bl0/maxresdefault.jpg" alt="chat">
+                </div>
+                <i class="far fa-play-circle"></i>
+            </div>
+            <p>February 14, 2024 - Arjuna Madanayake & Ted Rappaport</p>
+        </div>
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=nBHUHr2KzV4"></a>
@@ -111,16 +121,7 @@ include('header.php'); ?>
             </div>
             <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
         </div>
-        <div class="cchat">
-            <div class="cchat-box">
-                <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
-                <div class="podcast__itemThumbnail">
-                    <img src="https://img.youtube.com/vi/mdEP3Qx6bl0/maxresdefault.jpg" alt="chat">
-                </div>
-                <i class="far fa-play-circle"></i>
-            </div>
-            <p>November 8, 2023 - Arjuna Madanayake & Ted Rappaport</p>
-        </div>
+      
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vfGjXSMCN8E"></a>
@@ -334,7 +335,7 @@ include('header.php'); ?>
                     a World of 8 <br> Billion People</h3>
                 <p>High-speed Internet (also known as broadband Internet) means access to education, healthcare, jobs, entertainment, and equal participation in the modern economy. However, broadband is only available in densely populated areas around the world. The rest of the world is still waiting. In this digitally divided world of haves and have nots, universal broadband access is the great equalizer.</p>
                 <p>With this kind of demand, it's no wonder that the global broadband market is forecast to double within the decade. Universal high-speed Internet access for all is good for the world, and good for business.</p>
-                <a href="https://www.youtube.com/watch?v=efHi4bJgXs4" class="theme-btn popup-youtube">Watch Video</a>
+                <a href="https://www.youtube.com/watch?v=wJPZSQZQ2X0" class="theme-btn popup-youtube">Watch Video</a>
             </div>
         </div>
 

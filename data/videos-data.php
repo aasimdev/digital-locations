@@ -2,6 +2,12 @@
 
 $videos = [
     [
+        'title' => "Arjuna Madanayake & Ted Rappaport",
+        'videoID' => "mdEP3Qx6bl0",
+        'category' => "ceo-podcast",
+        'scope' => 'public'
+    ],
+    [
         'title' => "January 30, 2024 - Professor Andrew Robson - University of New England (AU)",
         'videoID' => "SWXeh39DF2Q",
         'category' => "ceo-podcast",
@@ -19,12 +25,7 @@ $videos = [
         'category' => "ceo-podcast",
         'scope' => 'private'
     ],
-    [
-        'title' => "Arjuna Madanayake & Ted Rappaport",
-        'videoID' => "mdEP3Qx6bl0",
-        'category' => "ceo-podcast",
-        'scope' => 'public'
-    ],
+   
     [
         'title' => "October 13, 2023 - Benjamin Tuttle - EOI Space",
         'videoID' => "eoOrzB4xp60",

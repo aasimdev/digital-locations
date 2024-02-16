@@ -2311,6 +2311,19 @@ body.modal-open {
                 color: #ff4800;
                 font-weight: 700;
             }
+            a{
+                font-size: inherit;
+                text-decoration: underline;
+                color: #ff4e14;
+            }
+        }
+        .inrecent-news{
+            font-size: 42px;
+            display: inline-block;
+            margin-bottom: 30px;
+            color: #ff4800;
+            line-height: 1;
+            text-transform: uppercase;
         }
     }
 
@@ -2591,4 +2604,18 @@ body.modal-open {
 
 .mfp-wrap{
     z-index: 999999;
+}
+
+.fls-text{
+    margin: 50px 0px 20px;
+    p{
+        color: #000;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        position: relative;
+        text-align: left;
+    }
 }
