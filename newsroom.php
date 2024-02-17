@@ -200,7 +200,7 @@ include('header.php'); ?>
             <h5>{$item['title']}</h5>
             <span>{$item['date']}</span>
             <p>{$item['description']}</p>
-            <a href=\"{$item['newLink']}.php\" class=\"theme-btn\">Read Here</a>
+            <a href=\"/{$item['newLink']}\" class=\"theme-btn\">Read Here</a>
         </div>";
         }
 

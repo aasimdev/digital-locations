@@ -41,19 +41,19 @@
 
         <!-- Footer Mobile Navigation -->
         <div class="footer__nav d-xl-none">
-            <a href="index.php">Home</a>
-            <a href="market.php">Market</a>
-            <a href="technology.php">Technology</a>
-            <a href="applications.php">Applications</a>
-            <a href="newsroom.php">Newsroom</a>
-            <a href="videos.php">Videos</a>
-            <a href="investors.php">Investors</a>
-            <a href="about-us.php">About</a>
-            <a href="contact-us.php">Contact</a>
+            <a href="/">Home</a>
+            <a href="/market">Market</a>
+            <a href="/technology">Technology</a>
+            <a href="/applications">Applications</a>
+            <a href="/newsroom">Newsroom</a>
+            <a href="/videos">Videos</a>
+            <a href="/investors">Investors</a>
+            <a href="/about-us">About</a>
+            <a href="/contact-us">Contact</a>
             <a href="https://cellsites.digitallocations.com/" target="_blank">Small Cells</a>
         </div>
         <div class="f-logo d-xl-none">
-            <a href="#">
+            <a href="/">
                 <img src="./assets/img/logo-dark.svg" alt="footer logo">
             </a>
         </div>
@@ -62,25 +62,25 @@
         <div class="footer__bottom">
             <div class="footer__navigation d-none d-xl-flex">
                 <div class="f-logo ">
-                    <a href="index.php">
+                    <a href="/">
                         <img src="./assets/img/logo-dark.svg" alt="footer logo">
                     </a>
                 </div>
                 <div class="footer__nav">
-                    <a href="index.php">Home</a>
-                    <a href="market.php">Market</a>
-                    <a href="technology.php">Technology</a>
-                    <a href="applications.php">Applications</a>
-                    <a href="newsroom.php">Newsroom</a>
-                    <a href="videos.php">Videos</a>
-                    <a href="investors.php">Investors</a>
-                    <a href="about-us.php">About</a>
-                    <a href="contact-us.php">Contact</a>
+                    <a href="/">Home</a>
+                    <a href="/market">Market</a>
+                    <a href="/technology">Technology</a>
+                    <a href="/applications">Applications</a>
+                    <a href="/newsroom">Newsroom</a>
+                    <a href="/videos">Videos</a>
+                    <a href="/investors">Investors</a>
+                    <a href="/about-us">About</a>
+                    <a href="/contact-us">Contact</a>
                     <a href="https://cellsites.digitallocations.com/" target="_blank">Small Cells</a>
                 </div>
             </div>
             <div class="footer__ptnc">
-                <a href="privacy-policy.php" class="d-none d-xl-block">Privacy Policy</a>
+                <a href="/privacy-policy" class="d-none d-xl-block">Privacy Policy</a>
             </div>
         </div>
         <?php

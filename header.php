@@ -92,7 +92,7 @@
                     <div class="invest-bar-text">
                         <div class="invest-bar-text-wrap">
                             <p>Stock Symbol: DLOC</p>
-                            <a href="investors.php">
+                            <a href="/investors">
                                 Learn more
                             </a>
                         </div>
@@ -108,7 +108,7 @@
         <!-- Hedaer -->
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="/">
                     <img src="./assets/img/logo.png" alt="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -123,32 +123,32 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('market.php'); ?>" href="market.php">Market</a>
+                            <a class="nav-link <?php active('market.php'); ?>" href="/market">Market</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('technology.php'); ?>" href="technology.php">Technology</a>
+                            <a class="nav-link <?php active('technology.php'); ?>" href="/technology">Technology</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('applications.php'); ?>" href="applications.php">Applications</a>
+                            <a class="nav-link <?php active('applications.php'); ?>" href="/applications">Applications</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('newsroom.php'); ?>" href="newsroom.php">Newsroom</a>
+                            <a class="nav-link <?php active('newsroom.php'); ?>" href="/newsroom">Newsroom</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('videos.php'); ?>" href="videos.php">Videos</a>
+                            <a class="nav-link <?php active('videos.php'); ?>" href="/videos">Videos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('investors.php'); ?>" href="investors.php">Investors</a>
+                            <a class="nav-link <?php active('investors.php'); ?>" href="/investors">Investors</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php active('about-us.php'); ?>" href="about-us.php">About</a>
+                            <a class="nav-link <?php active('about-us.php'); ?>" href="/about-us">About</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link <?php active('contact-us.php'); ?>" href="contact-us.php">Contact</a>
+                            <a class="nav-link <?php active('contact-us.php'); ?>" href="/contact-us">Contact</a>
                         </li>
                     </ul>
                 </div>

@@ -8,7 +8,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="investReason__head">
             <div class="inrecent-news">
-                <a href="newsroom.php">Recent News:</a>
+                <a href="/newsroom">Recent News:</a>
                 <h1>Digital Locations CEO Rich Berliner Discussed Future of 6G Wireless Technology with Top Industry Experts</h1>
                 <hr>
             </div>
