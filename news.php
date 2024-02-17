@@ -7,7 +7,11 @@ include('header.php'); ?>
 <section class="investReason pb-0">
     <div class="container">
         <div class="investReason__head">
-            <a href="newsroom.php" class="inrecent-news">Recent News</a>
+            <div class="inrecent-news">
+                <a href="newsroom.php">Recent News:</a>
+                <h1>Digital Locations CEO Rich Berliner Discussed Future of 6G Wireless Technology with Top Industry Experts</h1>
+                <hr>
+            </div>
             <h2><span>3 Reasons</span> Why We Are So Excited About Digital Locations
                 <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
             </h2>
