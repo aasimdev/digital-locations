@@ -2297,8 +2297,7 @@ body.modal-open {
         max-width: 1030px;
         margin: 0 auto 90px;
         text-align: center;
-
-        h2 {
+        .inReasons{
             color: #000;
             font-family: Inter;
             font-size: 55px;
@@ -2306,24 +2305,49 @@ body.modal-open {
             font-weight: 400;
             line-height: 120%;
             text-transform: uppercase;
-
+            text-decoration: none;
             span {
                 color: #ff4800;
                 font-weight: 700;
             }
-            a{
-                font-size: inherit;
+
+        }
+        h2 {
+          line-height: 0.8;
+            a {
+                font-size: 55px;
                 text-decoration: underline;
                 color: #ff4e14;
+                font-family: "Neue Montreal";
+                line-height: 1.1;
             }
         }
-        .inrecent-news{
-            font-size: 42px;
-            display: inline-block;
-            margin-bottom: 30px;
-            color: #ff4800;
-            line-height: 1;
-            text-transform: uppercase;
+
+        .inrecent-news {
+            text-align: left;
+
+            a {
+                font-size: 14px;
+                display: inline-block;
+                margin-bottom: 12px;
+                line-height: 1;
+                text-transform: uppercase;
+                font-weight: 500;
+            }
+
+            hr {
+                background-color: #000;
+                margin: 24px 0 32px;
+                opacity: 1;
+            }
+            &-title{
+                font-size: 16px !important;
+                color: #000;
+                line-height: 1.5 !important;
+                text-transform: none !important;
+                display: block !important;
+                font-family: "Monument Extended";
+            }
         }
     }
 
@@ -2554,17 +2578,20 @@ body.modal-open {
                 text-transform: capitalize;
             }
 
-            .accordion-body{
+            .accordion-body {
                 font-family: Inter;
                 line-height: 26px;
             }
         }
-        .faqs .accordion-flush .accordion-item:first-child{
+
+        .faqs .accordion-flush .accordion-item:first-child {
             border-top: 0;
         }
-        .faqs .accordion-flush .accordion-item:last-child{
+
+        .faqs .accordion-flush .accordion-item:last-child {
             border-bottom: 0;
         }
+
         .faq-item {
             margin-bottom: 25px;
             border-bottom: 1px solid rgba($color: #000, $alpha: 0.5);
@@ -2602,13 +2629,14 @@ body.modal-open {
     }
 }
 
-.mfp-wrap{
+.mfp-wrap {
     z-index: 999999;
 }
 
-.fls-text{
+.fls-text {
     margin: 50px 0px 20px;
-    p{
+
+    p {
         color: #000;
         font-family: Inter;
         font-size: 16px;

@@ -7,8 +7,15 @@ include('header.php'); ?>
 <section class="investReason pb-0">
     <div class="container">
         <div class="investReason__head">
-            <a href="newsroom.php" class="inrecent-news">Recent News</a>
-            <h2><span>3 Reasons</span> Why We Are So Excited About Digital Locations
+            <div class="inrecent-news">
+                <a href="/newsroom">Recent News:</a>
+                <a href="/digital-locations-announces-satenna-a-satellite-to-samartphone-antenna-breakthrough" class="inrecent-news-title">
+                Digital Locations Announces Satenna<sup>TM</sup> – a Satellite to Smartphone Antenna Breakthrough 
+                </a>
+                <hr>
+            </div>
+            <h2>
+                <a href="/investors" class="inReasons"><span>3 Reasons</span> to be excited about Digital Locations</a>
                 <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
             </h2>
 

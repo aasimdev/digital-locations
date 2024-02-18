@@ -430,6 +430,11 @@
     .investReason .row>div:last-of-type .investReason__text {
         margin-top: -62px;
     }
+
+    .investReason__head h2 a,
+    .investReason__head .inReasons {
+        font-size: 42px;
+    }
 }
 
 @media (min-width: 1361px) and (max-width: 1400px) {
@@ -1955,14 +1960,17 @@
         bottom: 24px;
         transform: translateX(-50%);
         justify-content: center;
-        svg{
+
+        svg {
             display: none;
         }
     }
-    .banner-logo{
+
+    .banner-logo {
         margin-left: auto;
         margin-right: auto;
     }
+
     .inv__quote p {
         font-size: 20px;
     }
@@ -1981,6 +1989,11 @@
 
     .investReason {
         padding: 50px 0 70px;
+    }
+
+    .investReason__head h2 a,
+    .investReason__head .inReasons {
+        font-size: 30px;
     }
 
     .investReason__head h2 {
@@ -2015,11 +2028,13 @@
         padding: 66px 0 100px;
     }
 
-    .investBggray .f_div h2, .investBggray .s_div h2 {
+    .investBggray .f_div h2,
+    .investBggray .s_div h2 {
         font-size: 30px;
     }
 
-    .investBggray .f_div h2 span, .investBggray .s_div h2 span {
+    .investBggray .f_div h2 span,
+    .investBggray .s_div h2 span {
         width: 35px;
         height: 35px;
 

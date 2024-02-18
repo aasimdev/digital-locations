@@ -42,7 +42,7 @@ include('header.php'); ?>
                     <div class=\"podcast__item\">
                         <div class=\"podcast__itemThumbnail\">
                             <img src=\"https://img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"chat\">
-                            <a href=\"single-video.php?id={$video['videoID']}\" class=\"podcast__play\">
+                            <a href=\"/single-video?id={$video['videoID']}\" class=\"podcast__play\">
                                 <svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">
                                     <g clip-path=\"url(#clip0_54_3118)\">
                                         <path d=\"M26 0C11.6627 0 0 11.6638 0 26C0 40.3362 11.6627 52 26 52C40.3373 52 52 40.3362 52 26C52 11.6638 40.3373 0 26 0ZM36.3361 26.9109L21.1695 36.6609C20.9918 36.7762 20.7865 36.8334 20.5834 36.8334C20.4056 36.8334 20.2258 36.7889 20.065 36.7011C19.7158 36.5107 19.5 36.1467 19.5 35.75V16.25C19.5 15.8533 19.7158 15.4893 20.065 15.2989C20.4078 15.1106 20.8373 15.1221 21.1695 15.3391L36.3361 25.0891C36.6451 25.2879 36.8334 25.6318 36.8334 26C36.8334 26.3682 36.6451 26.712 36.3361 26.9109Z\" fill=\"white\" />
@@ -81,7 +81,7 @@ include('header.php'); ?>
                     <div class=\"podcast__item\">
                         <div class=\"podcast__itemThumbnail\">
                             <img src=\"https://img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"chat\">
-                            <a href=\"single-video.php?id={$video['videoID']}\" class=\"podcast__play\">
+                            <a href=\"/single-video?id={$video['videoID']}\" class=\"podcast__play\">
                                 <svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">
                                     <g clip-path=\"url(#clip0_54_3118)\">
                                         <path d=\"M26 0C11.6627 0 0 11.6638 0 26C0 40.3362 11.6627 52 26 52C40.3373 52 52 40.3362 52 26C52 11.6638 40.3373 0 26 0ZM36.3361 26.9109L21.1695 36.6609C20.9918 36.7762 20.7865 36.8334 20.5834 36.8334C20.4056 36.8334 20.2258 36.7889 20.065 36.7011C19.7158 36.5107 19.5 36.1467 19.5 35.75V16.25C19.5 15.8533 19.7158 15.4893 20.065 15.2989C20.4078 15.1106 20.8373 15.1221 21.1695 15.3391L36.3361 25.0891C36.6451 25.2879 36.8334 25.6318 36.8334 26C36.8334 26.3682 36.6451 26.712 36.3361 26.9109Z\" fill=\"white\" />
@@ -119,7 +119,7 @@ include('header.php'); ?>
                 <div class=\"podcast__item\">
                     <div class=\"podcast__itemThumbnail\">
                         <img src=\"https://img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"chat\">
-                        <a href=\"single-video.php?id={$video['videoID']}\" class=\"podcast__play\">
+                        <a href=\"/single-video?id={$video['videoID']}\" class=\"podcast__play\">
                             <svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">
                                 <g clip-path=\"url(#clip0_54_3118)\">
                                     <path d=\"M26 0C11.6627 0 0 11.6638 0 26C0 40.3362 11.6627 52 26 52C40.3373 52 52 40.3362 52 26C52 11.6638 40.3373 0 26 0ZM36.3361 26.9109L21.1695 36.6609C20.9918 36.7762 20.7865 36.8334 20.5834 36.8334C20.4056 36.8334 20.2258 36.7889 20.065 36.7011C19.7158 36.5107 19.5 36.1467 19.5 35.75V16.25C19.5 15.8533 19.7158 15.4893 20.065 15.2989C20.4078 15.1106 20.8373 15.1221 21.1695 15.3391L36.3361 25.0891C36.6451 25.2879 36.8334 25.6318 36.8334 26C36.8334 26.3682 36.6451 26.712 36.3361 26.9109Z\" fill=\"white\" />
