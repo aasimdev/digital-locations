@@ -2297,8 +2297,7 @@ body.modal-open {
         max-width: 1030px;
         margin: 0 auto 90px;
         text-align: center;
-
-        h2 {
+        .inReasons{
             color: #000;
             font-family: Inter;
             font-size: 55px;
@@ -2306,16 +2305,20 @@ body.modal-open {
             font-weight: 400;
             line-height: 120%;
             text-transform: uppercase;
-
+            text-decoration: none;
             span {
                 color: #ff4800;
                 font-weight: 700;
             }
 
+        }
+        h2 {
+          line-height: 0.8;
             a {
-                font-size: inherit;
+                font-size: 55px;
                 text-decoration: underline;
                 color: #ff4e14;
+                font-family: "Neue Montreal";
             }
         }
 
@@ -2331,16 +2334,18 @@ body.modal-open {
                 font-weight: 500;
             }
 
-            h1 {
-                font-size: 20px;
-                color: #000;
-                line-height: 1.5;
-            }
-
             hr {
                 background-color: #000;
                 margin: 24px 0 32px;
                 opacity: 1;
+            }
+            &-title{
+                font-size: 16px !important;
+                color: #000;
+                line-height: 1.5 !important;
+                text-transform: none !important;
+                display: block !important;
+                font-family: "Monument Extended";
             }
         }
     }

@@ -9,10 +9,13 @@ include('header.php'); ?>
         <div class="investReason__head">
             <div class="inrecent-news">
                 <a href="/newsroom">Recent News:</a>
-                <h1>Digital Locations CEO Rich Berliner Discussed Future of 6G Wireless Technology with Top Industry Experts</h1>
+                <a href="/digital-locations-announces-satenna-a-satellite-to-samartphone-antenna-breakthrough" class="inrecent-news-title">
+                Digital Locations Announces Satenna<sup>TM</sup> – a Satellite to Smartphone Antenna Breakthrough 
+                </a>
                 <hr>
             </div>
-            <h2><span>3 Reasons</span> Why We Are So Excited About Digital Locations
+            <h2>
+                <a href="/investors" class="inReasons"><span>3 Reasons</span> to be excited about Digital Locations</a>
                 <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
             </h2>
 
