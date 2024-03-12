@@ -2297,7 +2297,8 @@ body.modal-open {
         max-width: 1030px;
         margin: 0 auto 90px;
         text-align: center;
-        .inReasons{
+
+        .inReasons {
             color: #000;
             font-family: Inter;
             font-size: 55px;
@@ -2306,14 +2307,28 @@ body.modal-open {
             line-height: 120%;
             text-transform: uppercase;
             text-decoration: none;
+
             span {
                 color: #ff4800;
                 font-weight: 700;
             }
 
         }
+
         h2 {
-          line-height: 0.8;
+            color: #000;
+            font-family: Inter;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            text-transform: uppercase;
+
+            span{
+                color: #FF6155;
+                font-weight: 700;
+            }
+
             a {
                 font-size: 55px;
                 text-decoration: underline;
@@ -2340,7 +2355,8 @@ body.modal-open {
                 margin: 24px 0 32px;
                 opacity: 1;
             }
-            &-title{
+
+            &-title {
                 font-size: 16px !important;
                 color: #000;
                 line-height: 1.5 !important;
