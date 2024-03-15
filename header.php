@@ -19,13 +19,27 @@
         $keywords = $GLOBALS['keywords'];
     } else {
         $keywords = "";
-    } ?>
+    } 
+    
+    // Get the current domain URL
+    $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
+    $domain = $_SERVER['HTTP_HOST'];
+    $current_url = $protocol . "://" . $domain;
+
+    // Check if the script is running on localhost
+    if ($domain === 'localhost' || $domain === '127.0.0.1') {
+        $full_url = $current_url . '/digital-locations/';
+    } else {
+        $full_url = $current_url . '/';
+    }
+
+    ?>
     <title><?php echo $title; ?></title>
-    <link rel="shortcut icon" href="./assets/img/favicon/favicon.ico" />
+    <link rel="shortcut icon" href="<?php echo  $full_url; ?>/assets/img/favicon/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/slick.min.css">
-    <link rel="stylesheet" href="./assets/css/slick-theme.min.css">
-    <link rel="stylesheet" href="./assets/css/style.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/slick-theme.min.css">
+    <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
 
 
     <!-- Meta Pixel Code -->
@@ -109,7 +123,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">
-                    <img src="./assets/img/logo.png" alt="logo">
+                    <img src="<?php echo  $full_url; ?>/assets/img/logo.png" alt="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <!-- <span class="navbar-toggler-icon"></span> -->
