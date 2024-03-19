@@ -1,0 +1,392 @@
+// 1st Section
+.hero-section {
+  background-image: url("../../assets/img/FTC-Background.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  .heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1 {
+      font-size: 55px;
+      font-weight: 400;
+      margin: 88px 0 60px 0;
+      text-align: center;
+      font-family: Inter;
+
+      span {
+        color: #ff6629;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .satellite-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 105px;
+  }
+}
+
+// 2nd Section
+.upcoming-vote {
+  background-color: #efeffe;
+  padding: 100px 0;
+
+  h2 {
+    font-size: 35px;
+    font-family: Inter;
+    font-weight: 400;
+    color: #000;
+    line-height: 120%;
+    margin-bottom: 10px;
+
+    span {
+      font-weight: 600;
+      font-size: 35px;
+    }
+  }
+
+  p {
+    font-family: Inter;
+    color: #000;
+    font-size: 22px;
+    margin-top: 50px;
+    line-height: 40px;
+
+    span {
+      font-weight: 600;
+    }
+  }
+
+  .global-market {
+    padding: 0 0 0 75px;
+  }
+}
+
+// 3rd Section
+.parallax-out {
+  background: #fff;
+}
+.parallax {
+  background-image: url("../../assets/img/Designer.png");
+  min-height: 400px;
+
+  // background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallax-content {
+  text-align: center;
+  color: white;
+}
+
+.parallax-content h4 {
+  font-size: 36px;
+  font-family: Inter;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+
+// 4th Section
+.fcc-proposal {
+  padding: 100px 0;
+  background-color: #fff;
+
+  h3 {
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 400;
+    color: #000;
+    line-height: 120%;
+
+    span {
+      font-weight: 600;
+      font-size: 36px;
+    }
+  }
+
+  p {
+    font-family: Inter;
+    font-weight: 400;
+    color: #000;
+    font-size: 22px;
+    margin-top: 50px;
+
+    span {
+      font-weight: 600;
+    }
+  }
+
+  .fcc-proposal-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 120px;
+  }
+
+  .satenna {
+    margin: 20px 0 0 0;
+  }
+
+  .dead-zones {
+    padding: 58px;
+    background-color: #efeffe;
+    border-radius: 60px;
+    margin: 125px 95px 90px;
+
+    h3 {
+      font-size: 34px;
+      font-family: Inter;
+      color: #000;
+      margin-bottom: 20px;
+      line-height: 120%;
+      span {
+        font-weight: 600;
+        font-size: 34px;
+      }
+    }
+    p {
+      font-family: Inter;
+      font-weight: 400;
+      color: #000;
+      font-size: 22px;
+      margin-top: 20px;
+    }
+  }
+
+  .reason-rig {
+    height: 250px;
+    width: 100%;
+    padding-left: 60px;
+    img {
+      border-radius: 30px;
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  .work-indeed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 0;
+    flex-direction: column;
+
+    p {
+      font-family: Inter;
+      font-weight: 400;
+      color: #000;
+      font-size: 25px;
+      margin-top: 0px !important;
+      text-align: center;
+    }
+    a {
+      background-color: #ff4800;
+      color: #fff;
+      padding: 15px 45px;
+      border-radius: 30px;
+      font-size: 18px;
+      text-decoration: none;
+      margin-top: 50px;
+    }
+  }
+}
+
+.desktop-show {
+  display: block;
+}
+
+.mobile-show {
+  display: none;
+}
+
+// Responsive
+@media (max-width: 1536px) {
+  .upcoming-vote {
+    h2 {
+      font-size: 32px;
+      span {
+        font-size: 32px;
+      }
+    }
+
+    p {
+      font-size: 20px;
+      line-height: 30px;
+      margin-top: 40px;
+    }
+
+    .global-market {
+      padding: 0 45px;
+    }
+  }
+
+  .fcc-proposal {
+    h3 {
+      font-size: 32px;
+      span {
+        font-size: 32px;
+      }
+    }
+
+    p {
+      font-size: 20px;
+      line-height: 30px;
+      margin-top: 40px;
+    }
+
+    .fcc-proposal-img {
+      margin-right: 80px;
+    }
+
+    .dead-zones {
+      padding: 50px;
+      margin: 100px;
+    }
+
+    .dead-zones h3 {
+      font-size: 31px;
+      span {
+        font-size: 31px;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .desktop-show {
+    display: none;
+  }
+
+  .mobile-show {
+    display: block;
+    width: 100%;
+  }
+
+  .res-img {
+    img {
+      border-radius: 12px;
+      height: 100%;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+  .hero-section {
+    .heading h1 {
+      font-size: 30px;
+      margin: 40px 0;
+    }
+
+    .satellite-img {
+      padding-bottom: 40px;
+    }
+  }
+
+  // 2nd
+  .upcoming-vote {
+    padding: 40px 0;
+
+    h2 {
+      font-size: 26px;
+      font-family: Inter;
+      color: #000;
+      span {
+        font-size: 26px;
+        font-weight: 600;
+      }
+    }
+    img {
+      width: 100%;
+      margin: 30px 0 10px 0;
+    }
+
+    p {
+      font-size: 18px;
+      margin-top: 15px;
+      color: #000;
+      line-height: 130%;
+    }
+  }
+
+  // 3rd mobile
+  .parallax {
+    background-image: url("../../assets/img/designer_mobile.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 295px;
+  }
+
+  .parallax-content h4 {
+    font-size: 28px;
+    padding: 0 20px;
+  }
+
+  .fcc-proposal {
+    padding: 25px 0 40px 0;
+
+    h3 {
+      font-size: 30px;
+      margin: 25px 0;
+    }
+    p {
+      font-size: 20px;
+      margin-top: 15px;
+    }
+
+    .fcc-proposal-img {
+      height: unset;
+    }
+
+    .dead-zones {
+      padding: 15px 15px 25px;
+      border-radius: 18px;
+      margin: 0;
+      h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        margin-top: 0;
+      }
+      p {
+        font-size: 20px;
+        margin-top: 15px;
+      }
+    }
+
+    .reason-rig {
+      padding-left: 0;
+      margin: 20px 0 10px 0;
+      display: none;
+    }
+
+    .work-indeed {
+      margin: 25px 0 0;
+      width: 100%;
+      text-align: center;
+      p {
+        font-size: 26px;
+        margin: 10px 0 10px 0 !important;
+      }
+      a {
+        margin: 25px 0 15px 0;
+        width: 100%;
+      }
+    }
+
+    .satenna {
+      margin: 25px 0 45px 0;
+    }
+  }
+}
