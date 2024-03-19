@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = "FTC - Digital Locations";
+$GLOBALS['title'] = "FFC - Digital Locations";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('../header.php'); ?>
@@ -17,7 +17,7 @@ include('../header.php'); ?>
             
         </div>
         <div class="satellite-img">
-            <a href="https://www.youtube.com/watch?v=11gmBXrJoPM" class="popup-youtube">
+            <a href="https://www.youtube.com/watch?v=MArNEoTVslc" class="popup-youtube">
                 <img src="../assets/img/FTC-Satellite.png" alt="satellite">
             </a>
         </div>
@@ -180,7 +180,7 @@ include('../header.php'); ?>
                         Hackensack, Nj 07601
                     </p>
                     <p>Tel: (201) 820-2008 </p>
-                    <p>URL: www.worldwidestocktransfer.com</p>
+                    <p class="text-uppercase">URL: www.worldwidestocktransfer.com</p>
                 </div>
             </div>
             <div class="col-lg-6 ">
@@ -192,7 +192,7 @@ include('../header.php'); ?>
                                 <path d="M21.5142 21.5674V21.1825C21.5142 19.9358 22.2667 19.2758 23.0192 18.7441C23.7538 18.2308 24.4883 17.5708 24.4883 16.3608C24.4883 14.6741 23.1625 13.3174 21.5142 13.3174C19.8658 13.3174 18.54 14.6741 18.54 16.3608" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
                                 <path d="M21.5061 25.9499H21.5222" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
                             </svg></span>
-                        Investor FAQ
+                        Investors FAQ
                     </h2>
                     <div class="faqs">
                         <div class="accordion accordion-flush" id="investor-faqs">
