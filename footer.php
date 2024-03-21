@@ -1,3 +1,17 @@
+<?php
+$page_name = basename($_SERVER['PHP_SELF']);
+// Get the current domain URL
+$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
+$domain = $_SERVER['HTTP_HOST'];
+$current_url = $protocol . "://" . $domain;
+
+// Check if the script is running on localhost
+if ($domain === 'localhost' || $domain === '127.0.0.1') {
+    $full_url = $current_url . '/digital-locations/';
+} else {
+    $full_url = $current_url . '/';
+}
+?>
 <footer class="footer">
     <div class="container">
         <div class="footer__content">
@@ -6,7 +20,7 @@
             <!-- <a href="#" class="theme-btn dark-btn">Learn More</a> -->
         </div>
         <div class="footer__graphic">
-            <img src="./assets/img/footer-map.png" alt="footer map">
+            <img src="<?php echo  $full_url; ?>/assets/img/footer-map.png" alt="footer map">
         </div>
         <?php
         $page_name = basename($_SERVER['PHP_SELF']);
@@ -54,7 +68,7 @@
         </div>
         <div class="f-logo d-xl-none">
             <a href="/">
-                <img src="./assets/img/logo-dark.svg" alt="footer logo">
+                <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.svg" alt="footer logo">
             </a>
         </div>
     </div>
@@ -63,7 +77,7 @@
             <div class="footer__navigation d-none d-xl-flex">
                 <div class="f-logo ">
                     <a href="/">
-                        <img src="./assets/img/logo-dark.svg" alt="footer logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.svg" alt="footer logo">
                     </a>
                 </div>
                 <div class="footer__nav">
@@ -120,12 +134,12 @@
 
 
 
-<script src="./assets/js/jquery-3.1.1.min.js"></script>
-<script src="./assets/js/slick.min.js"></script>
-<script src="./assets/js/bootstrap.bundle.min.js"></script>
-<script src="./assets/js/jquery.magnific-popup.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/jquery-3.1.1.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/slick.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/bootstrap.bundle.min.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/jquery.magnific-popup.min.js"></script>
 <script src="https://apis.google.com/js/api.js"></script>
-<script src="./assets/js/main.js"></script>
+<script src="<?php echo  $full_url; ?>/assets/js/main.js"></script>
 
 </body>
 

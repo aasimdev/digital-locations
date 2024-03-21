@@ -25,7 +25,7 @@ $videos = [
         'category' => "ceo-podcast",
         'scope' => 'private'
     ],
-   
+
     [
         'title' => "October 13, 2023 - Benjamin Tuttle - EOI Space",
         'videoID' => "eoOrzB4xp60",
@@ -98,7 +98,7 @@ $videos = [
         'category' => "ceo-podcast",
         'scope' => 'public'
     ],
-   
+
     [
         'title' => "September 30, 2023 - SATELLITE NETWORKS TO GENERATE $17BN FOR OPERATORS",
         'videoID' => "ffcrMVcgaPA",
@@ -217,6 +217,248 @@ $videos = [
         'title' => "Jun 29, 2023 - Government Investment in High Speed Internet",
         'videoID' => "ODnzgsMr07s",
         'category' => "news-commentary",
+        'scope' => 'public'
+    ],
+
+    // shorts
+    [
+        'title' => "36 billion reasons to ditch dead zones!",
+        'videoID' => "OoNIAPNZuK4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The future of connection is satellite-powered.",
+        'videoID' => "0dIBjQoSQ38",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Cell signal dropped? Don't sweat it!",
+        'videoID' => "cZ4dGk9RHU4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Stuck with frustrating landline or connectivity issues?",
+        'videoID' => "XyJ1v38N24U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Rural students shouldn't be left behind",
+        'videoID' => "m-zqekyDSLk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Remote work shouldn't be limited by location.",
+        'videoID' => "QZcEFiHuStg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite Internet Can Be a Firefighter's Lifeline.",
+        'videoID' => "sH_lm7InDT0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite internet is a treasure to many- across many industries!",
+        'videoID' => "er9mYS-krog",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We are here for the farmers too!",
+        'videoID' => "CVQLSzXS460",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Cell Phone Power Outbreak Solution",
+        'videoID' => "tFQhpNLmSp8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "$799 for a cell phone?",
+        'videoID' => "5eOVkwZcAlg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite internet will be super beneficial to this country!",
+        'videoID' => "2q6oTx0M52w",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Cell Phone Power Outbreak Solution",
+        'videoID' => "T-BAfTK3-X8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite Internet Unlocks Global Access to Education",
+        'videoID' => "Fn599Ac0A0c",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Providing a necessary solution to those in need.",
+        'videoID' => "E0l2F9RNfTs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Embark with us on a quest for universal high-speed internet!",
+        'videoID' => "y2ncOrgj1Gk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Firefighters' new best friend from space",
+        'videoID' => "lOgyF91hm9Q",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Where would media exploration be without photographers?",
+        'videoID' => "54QS1jNqqAs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We want everyone to travel carefree and safely",
+        'videoID' => "CXYHA6jDNnA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Empowering Global Connectivity With SATENNA by Digital Locations",
+        'videoID' => "U7lvhjUuYaA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "When traveling, the last thing people want to worry about is safety and phone service",
+        'videoID' => "Xu7G_DsWBGk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Bringing Distant Horizons Closer",
+        'videoID' => "jvRvQkPNXoM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Hike with Confidence",
+        'videoID' => "ZS9WpvkCj0c",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "No one wants to travel with fear.",
+        'videoID' => "v8NvGA5xWzg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Locations is working to bring peace to anyone who stresses with anxiety",
+        'videoID' => "N1RGHPXqJxk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "No matter where you are, we want you to be connected to the internet",
+        'videoID' => "h4RjuM569a0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "If you use the internet, you want to know this!",
+        'videoID' => "IQtf6hsrWNQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The North Sea",
+        'videoID' => "i5PSv79xl4c",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The internet is more than a tool",
+        'videoID' => "h4RjuM569a0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "No service. No money.",
+        'videoID' => "IQtf6hsrWNQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Kids don't want to be without internet! Ever!",
+        'videoID' => "aIr8Zjkav7s",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We understand the internet is like a lifeline to friends and entertainment to the younger generation",
+        'videoID' => "8uWkG-q_LqY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Connecting the gap: Satellite internet revolutionizes rural areas.",
+        'videoID' => "-1uExPt8gUU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite to Cell Phone",
+        'videoID' => "-pT1ZRjV-9U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "$22.5 Billion by 2030",
+        'videoID' => "IBS2MdghOR4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Receive Internet Access In Remote Areas!",
+        'videoID' => "UTZjaCz_JLg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Millennial's Guide to Satellite Internet",
+        'videoID' => "fbTnJlzaRkk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Generation Internet",
+        'videoID' => "VvKxRZt7b6k",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Travel Anywhere in an Instant",
+        'videoID' => "2SZ2rTOxFB4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Family Reunions Don't Have to be Stressful",
+        'videoID' => "gr-zVlj90m8",
+        'category' => "short",
         'scope' => 'public'
     ],
     [
@@ -392,7 +634,7 @@ $videos = [
         'category' => "short",
         'scope' => 'public'
     ],
-  
+
     [
         'title' => "What Makes a World Wide Web?",
         'videoID' => "N9G_aya8y3U",
@@ -870,7 +1112,7 @@ $videos = [
         'scope' => 'public'
     ],
 
-  
+
     [
         'title' => "Casually Watching YouTube on the Moon",
         'videoID' => "N41lSMPN4R0",
