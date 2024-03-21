@@ -72,7 +72,7 @@
 
 .bPoints {
     // margin-bottom: -142px;
-
+    padding-top: 120px;
     .row {
         gap: 82px 0;
     }
@@ -2324,7 +2324,7 @@ body.modal-open {
             line-height: 120%;
             text-transform: uppercase;
 
-            span{
+            span {
                 color: #ff4800;
                 font-weight: 700;
             }
@@ -2661,5 +2661,32 @@ body.modal-open {
         line-height: 20px;
         position: relative;
         text-align: left;
+    }
+}
+
+
+.dl-about {
+    background: #FFF;
+    padding: 120px 0;
+
+    p {
+        color: #000;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 130%;
+        letter-spacing: 0.78px;
+        span{
+            font-weight: 700;
+        }
+        & + p{
+            margin-top: 36px;
+        }
+    }
+    &-satenna{
+        p{
+            margin-top: 50px;
+        }
     }
 }

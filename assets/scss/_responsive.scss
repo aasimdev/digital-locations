@@ -1232,6 +1232,7 @@
 
     .bPoints {
         margin-bottom: 0;
+        padding-top: 80px;
     }
 
     .connectedPeople {
@@ -1403,6 +1404,12 @@
 
     .researchTeam__content {
         margin-top: 35px;
+    }
+    .dl-about {
+        padding: 80px 0;
+    }
+    .dl-about-satenna{
+        margin-top: 50px;
     }
 }
 
@@ -2049,5 +2056,19 @@
 
     .investBggray .f_div p {
         font-size: 16px;
+    }
+    .dl-about{
+        p{
+            font-size: 17px;
+        }
+    }
+    .dl-about p+p {
+        margin-top: 24px;
+    }
+    .dl-about-satenna{
+        margin-top: 50px;
+    }
+     .dl-about-satenna p{
+        margin-top: 24px;
     }
 }

@@ -53,7 +53,26 @@ include('header.php'); ?>
     </div>
 </section>
 
-
+<div class="dl-about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <p><span style="color: #FF6629;">Digital Locations</span> <span>is working with a world class research team at Florida</span> International University (FIU) to develop SatennaTM, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world.
+           
+                </p>
+                <p>  Today, high-speed Internet (also known as broadband Internet) is only available in densely populated areas around the world. The rest of the world is still waiting.</p>
+                <p>  Elon Musk (SpaceX), Jeff Bezos (Blue Origin) and others are launching tens of thousands of Low Earth Orbit (LEO) satellites. Unfortunately, without the use of additional equipment, the technology does not yet exist that will allow these satellites to deliver high-speed Internet directly to smartphones. Solving this problem represents an extraordinary business opportunity.</p>
+                <p>   Our approach only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites.</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="dl-about-satenna">
+                    <img src="./assets/img/abt-dl-img.png" alt="abt">
+                    <p><span style="color: #FF6629;">Satenna<sup>TM</sup></span> will finally make it possible for the satellite industry to <span>offer high-speed Internet service from satellites directly to smartphones</span> anywhere in the world, indoors and outdoors with no dead zones and no cell towers. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, remote work, participation in public affairs and even Netflix, Amazon and much, much more.​</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <section class="bPoints">
@@ -101,7 +120,7 @@ include('header.php'); ?>
 
 <section class="pvRecent pb-0">
     <div class="ceochats-carousel">
-    <div class="cchat">
+        <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=mdEP3Qx6bl0"></a>
                 <div class="podcast__itemThumbnail">
@@ -121,7 +140,7 @@ include('header.php'); ?>
             </div>
             <p>December 29, 2023 - Dale Hamilton - Northwest Nazarene University</p>
         </div>
-      
+
         <div class="cchat">
             <div class="cchat-box">
                 <a class="popup-youtube getThumbnail" href="http://www.youtube.com/watch?v=vfGjXSMCN8E"></a>
