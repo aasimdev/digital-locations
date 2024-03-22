@@ -75,7 +75,7 @@ include('header.php'); ?>
 </div>
 
 
-<section class="bPoints">
+<!-- <section class="bPoints">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6">
@@ -116,7 +116,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="pvRecent pb-0">
     <div class="ceochats-carousel">
