@@ -2,6 +2,12 @@
 
 $videos = [
     [
+        'title' => "Satenna - A Satellite to Smartphone Antenna Breakthrough",
+        'videoID' => "-sws5xebbMs",
+        'category' => "ceo-podcast",
+        'scope' => 'public'
+    ],
+    [
         'title' => "Arjuna Madanayake & Ted Rappaport",
         'videoID' => "mdEP3Qx6bl0",
         'category' => "ceo-podcast",
