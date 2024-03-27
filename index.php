@@ -67,7 +67,7 @@ include('header.php'); ?>
             <div class="col-lg-6">
                 <div class="dl-about-satenna">
                     <img src="./assets/img/abt-dl-img.png" alt="abt">
-                    <p><span style="color: #FF6629;">Satenna<sup>TM</sup></span> will finally make it possible for the satellite industry to <span>offer high-speed Internet service from satellites directly to smartphones</span> anywhere in the world, indoors and outdoors with no dead zones and no cell towers. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, remote work, participation in public affairs and even Netflix, Amazon and much, much more.​</p>
+                    <p><span style="color: #FF6629;">Satenna<sup>TM</sup></span> will finally make it possible for the satellite industry to <span>offer high-speed Internet service from satellites directly to smartphones</span> anywhere in the world, with no dead zones and no cell towers. Anyone, anywhere, regardless of location, economic status, race or gender will be able to access high-speed Internet service and benefit from remote learning, health care, government services, remote work, participation in public affairs and even Netflix, Amazon and much, much more.​</p>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@ include('header.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>05</h5>
-                    <p>Working with a research team from Florida International University, Digital Locations is developing Satenna<sup>TM</sup>, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
+                    <p>Working with a research team from Florida International University, Digital Locations is developing Satenna<sup>TM</sup>, a potentially disruptive technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, with no dead zones and no cell towers.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -467,7 +467,7 @@ include('header.php'); ?>
             <div class="col-xl-4 col-md-6">
                 <div class="technology__text">
                     <h6>A novel approach</h6>
-                    <p>We intend to overcome this technical challenge by developing a disruptive technology that will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We aim to redesign the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
+                    <p>We intend to overcome this technical challenge by developing a disruptive technology that will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones,  with no dead zones and no cell towers. We aim to redesign the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
                 </div>
             </div>
             <div class="col-xl-4">
