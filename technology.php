@@ -54,24 +54,24 @@ include('header.php'); ?>
     </div>
     <div class="container">
         <div class="row gx-lg-5">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
                 <div class="novalFeature">
                     <h5>Novel Antenna Design</h5>
                     <p>on the smartphone side that is high gain, high bandwidth, and multi-frequency</p>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
                 <div class="novalFeature">
                     <h5>Artificial intelligence</h5>
                     <p>based phased array antenna and beam forming systems with automatic frequency hopping to overcome weather, visual obstructions, regulatory and other challenges</p>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <div class="novalFeature">
                     <h5>Indoor and Outdoor</h5>
                     <p>connection seamlessly maintain through the use of artificial intelligence algorithms</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
