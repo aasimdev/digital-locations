@@ -2,7 +2,7 @@
 $GLOBALS['title'] = "Newsroom - Digital Locations";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
-include('header.php'); ?>
+include('../header.php'); ?>
 
 <section class="mbanner nographic newMbanner" style="background-image: url(./assets/img/market-bg.png);">
     <div class="container">
@@ -227,4 +227,4 @@ include('header.php'); ?>
 
 
 <?php
-include('footer.php'); ?>
+include('../footer.php'); ?>
