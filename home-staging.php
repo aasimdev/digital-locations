@@ -86,7 +86,7 @@ include('header-staging.php'); ?>
             <div class="col-lg-4 col-md-6">
                 <div class="bPoints__item">
                     <h5>05</h5>
-                    <p>Working with a research team from Florida International University, Digital Locations has accepted the challenge. We are developing a disruptive technology that will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, indoors and outdoors with no dead zones and no cell towers.</p>
+                    <p>Working with a research team from Florida International University, Digital Locations has accepted the challenge. We are developing a disruptive technology that will finally make it possible for the wireless industry to offer high-speed Internet service from satellites directly to smartphones anywhere in the world, with no dead zones and no cell towers.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -429,7 +429,7 @@ include('header-staging.php'); ?>
             <div class="col-xl-4 col-md-6">
                 <div class="technology__text">
                     <h6>A novel approach</h6>
-                    <p>We intend to overcome this technical challenge by developing a disruptive technology that will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We aim to redesign the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
+                    <p>We intend to overcome this technical challenge by developing a disruptive technology that will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, with no dead zones and no cell towers. We aim to redesign the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
                 </div>
             </div>
             <div class="col-xl-4">

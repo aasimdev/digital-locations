@@ -46,7 +46,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="novalaPP__content">
             <h3>SATENNA<sup>TM</sup> – A NOVEL APPROACH</h3>
-            <p>We intend to overcome this technical challenge by developing Satenna<sup>TM</sup>, a breakthrough technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, indoors and outdoors with no dead zones and no cell towers. We are redesigning the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
+            <p>We intend to overcome this technical challenge by developing Satenna<sup>TM</sup>, a breakthrough technology that only requires modifications on the smartphone side. This breakthrough can potentially eliminate the need to make costly and time-consuming modifications to existing, as well as future satellites. Satenna<sup>TM</sup> will make it possible for device manufacturers, wireless carriers, and satellite operators to offer high-speed Internet service from satellites directly to smartphones, with no dead zones and no cell towers. We are redesigning the link technology between satellites and smartphones, from the ground up, with state-of-the-art features such as:</p>
         </div>
     </div>
     <div class="novalaPP__graphic">
@@ -54,24 +54,24 @@ include('header.php'); ?>
     </div>
     <div class="container">
         <div class="row gx-lg-5">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
                 <div class="novalFeature">
                     <h5>Novel Antenna Design</h5>
                     <p>on the smartphone side that is high gain, high bandwidth, and multi-frequency</p>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
                 <div class="novalFeature">
                     <h5>Artificial intelligence</h5>
                     <p>based phased array antenna and beam forming systems with automatic frequency hopping to overcome weather, visual obstructions, regulatory and other challenges</p>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <div class="novalFeature">
                     <h5>Indoor and Outdoor</h5>
                     <p>connection seamlessly maintain through the use of artificial intelligence algorithms</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
