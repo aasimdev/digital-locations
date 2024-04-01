@@ -16,6 +16,12 @@ include('../header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations Welcomes the FCC to the Satellite to Mobile Party",
+                'date' => 'March 5, 2024',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna™, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced its endorsement of the Federal Communications Commission (FCC) proposal to regulate supplemental Internet coverage from space...',
+                'newLink' => "digital-locations-welcomes-the-fcc-to-the-satellite-to-mobile-party"
+            ],
+            [
                 'title' => "Digital Locations CEO Rich Berliner Discussed Future of 6G Wireless Technology with Top Industry Experts",
                 'date' => 'February 14, 2024',
                 'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna<sup>TM</sup>, a breakthrough technology that will enable delivery of high-speed Internet from satellites directly to smartphones all over the world, today announced that in a recent podcast, its CEO, Rich Berliner, spoke with Dr. Ted Rappaport, founding director of NYU Wireless, and Dr. Arjuna Madanayake, Associate Professor at Florida International University, about their work on channel modeling, precision timing, chip design, chip measurement and the future of 6G wireless...',
