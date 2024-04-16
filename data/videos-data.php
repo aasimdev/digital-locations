@@ -2,6 +2,12 @@
 
 $videos = [
     [
+        'title' => "April 15, 2024 Digital Locations News Commentary",
+        'videoID' => "atM_Yj2IAy0",
+        'category' => "news-commentary",
+        'scope' => 'public'
+    ],
+    [
         'title' => "Satenna - A Satellite to Smartphone Antenna Breakthrough",
         'videoID' => "-sws5xebbMs",
         'category' => "ceo-podcast",

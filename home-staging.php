@@ -442,10 +442,7 @@ include('header-staging.php'); ?>
                         <p>Artificial Intelligence </p>
                         <p>Based phased array antenna and beam forming systems with automatic frequency hopping to overcome weather, visual obstructions, regulatory and other challenges</p>
                     </div>
-                    <div class="technology__list__item">
-                        <p>Indoor & Outdoor</p>
-                        <p> Connection seamlessly maintain through the use of artificial intelligence algorithms</p>
-                    </div>
+                  
                 </div>
             </div>
         </div>
