@@ -2,6 +2,12 @@
 
 $videos = [
     [
+        'title' => "April 29, 2024 - Digital Locations News Commentary",
+        'videoID' => "vhlr6rlwc-8",
+        'category' => "news-commentary",
+        'scope' => 'public'
+    ],
+    [
         'title' => "April 15, 2024 Digital Locations News Commentary",
         'videoID' => "atM_Yj2IAy0",
         'category' => "news-commentary",
