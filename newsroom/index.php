@@ -16,6 +16,12 @@ include('../header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations Joins with Industry Heavyweights as a Member of the Newly Formed Mobile Satellite Services Association",
+                'date' => 'May 7, 2024',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of SatennaTM, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that it has joined the Mobile Satellite Services Association (MSSA), the newest satellite industry association...',
+                'newLink' => "digital-locations-joins-with-industry-heavyweights-as-a-member-of-the-newly-formed-mobile-satellite-services-association"
+            ],
+            [
                 'title' => "Digital Locations Welcomes the FCC to the Satellite to Mobile Party",
                 'date' => 'March 5, 2024',
                 'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna™, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced its endorsement of the Federal Communications Commission (FCC) proposal to regulate supplemental Internet coverage from space...',
