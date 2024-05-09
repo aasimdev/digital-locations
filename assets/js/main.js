@@ -18,6 +18,42 @@ $(function () {
     });
 
 
+    var hasSubmitted = localStorage.getItem('emailSubmitted');
+    if (!hasSubmitted) {
+        setTimeout(function () {
+            $('#investModal').modal('show');
+            $('body').addClass('no-scroll');
+        }, 3000);
+    }
+
+    $('#jotformForm').on('submit', function (e) {
+        e.preventDefault();
+        var formData = $(this).serialize();
+        $('.invest-sbmit-btn').hide();
+        $('.invest-modal .spinner-border').fadeIn().css("display", "inline-block");
+      
+        $.post($(this).attr('action'), formData)
+            .done(function (response) {
+                localStorage.setItem('emailSubmitted', 'true');
+                $('.invest-sbmit-btn').fadeIn();
+                $('.invest-modal .spinner-border').hide();
+                $('.invest-alert').fadeIn();
+                setTimeout(function () {
+                    $('#investModal').modal('hide');
+                    $('body').removeClass('no-scroll');
+                }, 1500);
+            })
+            .fail(function (xhr, status, error) {
+                console.error(xhr.responseText);
+            });
+    });
+
+    var myModalEl = document.getElementById('investModal')
+    myModalEl.addEventListener('hide.bs.modal', function (event) {
+        $('body').removeClass('no-scroll');
+    })
+
+
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
         iframe: {
