@@ -60,8 +60,8 @@ include('header.php'); ?>
                             </div>
                         </div>
                         <div class="form__group">
-                            <label for="input_4" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="input_4" name="q4_email" placeholder="Enter Email Address" required>
+                            <label for="input_6" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="input_6" name="q6_email" placeholder="Enter Email Address" required>
                         </div>
                         <div class="form__group">
                             <label for="message" class="form-label">Your Message</label>
