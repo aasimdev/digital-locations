@@ -43,28 +43,29 @@ include('header.php'); ?>
             <div class="col-lg-6 order-lg-1 order-0">
                 <div class="contact__form">
                     <h3>Contact us today to learn more about how we can help you.</h3>
-                    <form action="./php/smartprocess.php" method="POST">
+                    <form action="https://submit.jotform.com/submit/241335532734049/" method="POST">
+                        <input type="hidden" name="formID" value="241335532734049" />
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form__group">
-                                    <label for="fname" class="form-label">Your name</label>
-                                    <input type="text" class="form-control" id="fname" name="fname" placeholder="Your name" required>
+                                    <label for="first_3" class="form-label">Your name</label>
+                                    <input type="text" class="form-control" id="first_3" name="q3_name[first]" placeholder="Your name" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form__group">
-                                    <label for="lname" class="form-label">last name</label>
-                                    <input type="text" class="form-control" id="lname" name="lname" placeholder="Last Name" required>
+                                    <label for="last_3" class="form-label">last name</label>
+                                    <input type="text" class="form-control" id="last_3" name="q3_name[last]" placeholder="Last Name" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form__group">
-                            <label for="email" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter Email Address" required>
+                            <label for="input_4" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="input_4" name="q4_email" placeholder="Enter Email Address" required>
                         </div>
                         <div class="form__group">
                             <label for="message" class="form-label">Your Message</label>
-                            <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Your Message" required></textarea>
+                            <textarea name="q5_typeA" id="input_5" cols="30" rows="5" class="form-control" placeholder="Your Message" required></textarea>
                         </div>
                         <button type="submit" class="theme-btn" id="sendemail">Submit Now</button>
                     </form>
