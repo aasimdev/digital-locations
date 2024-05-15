@@ -144,7 +144,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
                     <h3>Keep up with our breaking news by subscribing to our email newsletter!</h3>
                     <div class="mb-3">
                         <input type="hidden" name="formID" value="241266757607060">
-                        <input type="email" name="q3_email" placeholder="Email" class="form-control">
+                        <input type="email" name="q3_email" placeholder="Email" class="form-control" required>
                     </div>
                     <button type="submit">
                         <span class="invest-sbmit-btn">Enter</span>
