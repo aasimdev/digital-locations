@@ -18,7 +18,7 @@ include('header.php'); ?>
             <img src="./assets/img/podcast-mobile.jpg" alt="podcast">
         </div>
 
-        <p>Watch our CEO, Rich Beliner, chat with leaders and experts in the wireless industry about trends, insights as well as progress with Digital Locations</p>
+        <p>Watch our CEO, Rich Berliner, chat with leaders and experts in the wireless industry about trends, insights as well as progress with Digital Locations</p>
     </div>
 </section>
 
