@@ -17,7 +17,7 @@ include('header.php'); ?>
             <img src="./assets/img/podcast-mobile.jpg" alt="podcast">
         </div>
 
-        <p>Watch our CEO, Rich Beliner, chat with leaders and experts in the biotech industry about trends, insights as well as progress with CancerVAX</p>
+        <p>Watch our CEO, Rich Berliner, chat with leaders and experts in the biotech industry about trends, insights as well as progress with CancerVAX</p>
     </div>
 </section>
 
