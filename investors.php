@@ -29,6 +29,48 @@ include('header.php'); ?>
     </div>
 </section>
 
+<section class="brokers-section">
+    <div class="container">
+        <div class="brokers-section-head">
+            <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
+            <h2>Available At:</h2>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-1.webp" alt="broker">
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-2.webp" alt="broker">
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-3.webp" alt="broker">
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-4.webp" alt="broker">
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-5.webp" alt="broker">
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <img src="./assets/img/broker-6.webp" alt="broker">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="investReason">
     <div class="container">
         <div class="investReason__head">
