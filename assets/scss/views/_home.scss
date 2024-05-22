@@ -666,7 +666,9 @@
     text-align: center;
     position: relative;
     z-index: 0;
-
+    &.investor-page-banner{
+        padding: 60px;
+    }
 
     &.nographic {
         &::after {

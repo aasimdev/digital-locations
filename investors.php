@@ -4,7 +4,7 @@ $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
-<section class="mbanner abtus" style="background-image: url(./assets/img/market-bg.png);">
+<section class="mbanner abtus investor-page-banner" style="background-image: url(./assets/img/market-bg.png);">
     <div class="container">
         <h1>Investors</h1>
     </div>
