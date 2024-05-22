@@ -14,7 +14,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="inv__quote__head">
             <p>Digital Locations is a Public Company</p>
-            <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
+            <!-- <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a> -->
         </div>
         <div class="inv__quote__video">
             <img src="./assets/img/investor-f.png" alt="investor">
