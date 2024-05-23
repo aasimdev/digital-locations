@@ -75,7 +75,7 @@ include('header.php'); ?>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
                     <a href="https://www.fidelity.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="./assets/img/broker-5.webp" alt="broker">
+                        <img src="./assets/img/broker-6.webp" alt="broker">
                     </a>
                 </div>
             </div>
