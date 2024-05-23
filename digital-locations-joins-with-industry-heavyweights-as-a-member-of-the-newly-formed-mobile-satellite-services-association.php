@@ -24,11 +24,7 @@ include('header.php'); ?>
 
         <p>Among the main objectives are interoperable architectures and standards for utilisation in multi-orbit satellite systems, ground infrastructure, and end-user equipment, and augmenting seamless global roaming between terrestrial and multi-orbit satellite networks through the development of recommended specifications.</p>
 
-<p>“Integrating satellite connectivity into consumer mobile devices is a transformative opportunity for the satellite industry. As a coalition of leaders with a unified voice, MSSA will be a driving force in making this new marketplace a reality, while respecting the rights of nations to meaningfully engage and retain sovereignty in a rapidly growing space economy,” said Mark Dankberg, Chairman of MSSA, and Chairman and CEO of Viasat. “The Association will help create opportunities to scale NTN systems via open, standards-based solutions for D2D and IoT. We believe this can be done while preserving critical MSS aviation and maritime safety services and by expanding the markets supporting diverse users through substantial improvements in speed, bandwidth, availability, interoperability and affordability.”</p>
-
         <p>Rich Berliner, CEO of Digital Locations, commented “We are happy to join these industry heavyweights, as the goals and aspirations of the MSSA are closely aligned with our development of Satenna™. We see the membership and the priorities of the MSSA as well balanced and a critically needed part of the world communications ecosystem.   </p>
-
-        <p>Mr. Berliner concluded, “The massive number of satellites being launched by Elon Musk’s SpaceX and others is helping to accelerate the growth of the satellite industry. The satellite business is the next great leap forward for high-speed data to reach everyone on earth and I look forward to the day when Digital Locations may play a critical role in the infrastructure of the future”. </p>
 
 
         <h2>About Digital Locations, Inc.</h2>
