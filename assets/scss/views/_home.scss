@@ -666,7 +666,9 @@
     text-align: center;
     position: relative;
     z-index: 0;
-
+    &.investor-page-banner{
+        padding: 60px;
+    }
 
     &.nographic {
         &::after {
@@ -2791,4 +2793,42 @@ body.modal-open {
 
 .no-scroll {
     overflow: hidden !important;
+}
+
+.brokers-section {
+    padding: 60px 0 0;
+    text-align: center;
+    background: #fff;
+
+    &-head{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 32px;
+        gap: 24px;
+        a{
+            border-radius: 30px;
+            background: #ff4800;
+            padding: 18.79px 18.613px 20.21px 17.802px;
+            color: #fff;
+            text-align: center;
+            font-family: inter;
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 21px;
+            display: inline-block;
+        }
+        h2{
+            color: #ff4800;
+            font-size: 36px;
+            margin-bottom: 0;
+            font-family: Inter;
+            font-weight: 600;
+        }
+    }
+}
+.broker-item{
+    width: 180px;
+    margin: auto;
 }

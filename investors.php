@@ -4,7 +4,7 @@ $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
-<section class="mbanner abtus" style="background-image: url(./assets/img/market-bg.png);">
+<section class="mbanner abtus investor-page-banner" style="background-image: url(./assets/img/market-bg.png);">
     <div class="container">
         <h1>Investors</h1>
     </div>
@@ -14,7 +14,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="inv__quote__head">
             <p>Digital Locations is a Public Company</p>
-            <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
+            <!-- <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a> -->
         </div>
         <div class="inv__quote__video">
             <img src="./assets/img/investor-f.png" alt="investor">
@@ -25,6 +25,60 @@ include('header.php'); ?>
                     <circle cx="60.3831" cy="60.5665" r="56.129" stroke="white" stroke-opacity="0.3" stroke-width="7" />
                 </svg>
             </a>
+        </div>
+    </div>
+</section>
+
+<section class="brokers-section">
+    <div class="container">
+        <div class="brokers-section-head">
+            <a href="https://finance.yahoo.com/q?s=dloc" target="_blank">Stock Symbol: DLOC</a>
+            <h2>Available At:</h2>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.schwab.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-1.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-2.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://us.etrade.com/home" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-3.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.ally.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-4.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.ml.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-5.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.fidelity.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-6.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
