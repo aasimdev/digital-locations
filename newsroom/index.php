@@ -16,9 +16,15 @@ include('../header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations Extends Its Agreement with Florida International University (FIU) to Continue Satenna™ Research",
+                'date' => 'May 29, 2024',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna™, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that it has extended its research agreement with Florida International University (FIU) to continue the Satenna™ research that it began a year ago...',
+                'newLink' => "digital-locations-extends-its-agreement-with-florida-international-university-to-continue-satenna-research"
+            ],
+            [
                 'title' => "Digital Locations Joins with Industry Heavyweights as a Member of the Newly Formed Mobile Satellite Services Association",
                 'date' => 'May 7, 2024',
-                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of SatennaTM, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that it has joined the Mobile Satellite Services Association (MSSA), the newest satellite industry association...',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna™, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that it has joined the Mobile Satellite Services Association (MSSA), the newest satellite industry association...',
                 'newLink' => "digital-locations-joins-with-industry-heavyweights-as-a-member-of-the-newly-formed-mobile-satellite-services-association"
             ],
             [
