@@ -2,6 +2,19 @@
 
 $videos = [
     [
+        'title' => "Satellite Technology in the Age of Digital Transformation & AI - with Thomas Erl",
+        'videoID' => "C-l9ZqW3wms",
+        'category' => "ceo-podcast",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "June 3, 2024 - Digital Locations News Commentary",
+        'videoID' => "igUMQfXB27k",
+        'category' => "news-commentary",
+        'scope' => 'public'
+    ],
+  
+    [
         'title' => "May 27, 2024 - Digital Locations News Commentary",
         'videoID' => "GPg-pl0IXOk",
         'category' => "news-commentary",
