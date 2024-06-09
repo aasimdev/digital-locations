@@ -271,6 +271,421 @@ $videos = [
 
     // shorts
     [
+        'title' => "25 students per class in NYC?! Will this work?",
+        'videoID' => "FpWYZGC4wvc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Stop searching for a signal. Start living with a connection",
+        'videoID' => "x9oXwOVesLE",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The future of the internet is on the rise! Don't fall behind on the news - follow us!",
+        'videoID' => "BI-z4qz9gGM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Check out a vital piece of making satellite internet possible!",
+        'videoID' => "XfXqp3cIf94",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Forget Cell Towers, Hello Satellites!",
+        'videoID' => "qCc_rTW09f4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Why I'm Fired Up About Satellite to Smartphone",
+        'videoID' => "M4JEC1YdKYM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "This should be an extinct experience in the year of 2024 and we want to make that real!",
+        'videoID' => "wNGG28p47R4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "No matter where you are, travel confidently with satellite internet.",
+        'videoID' => "j0MyK69vhSs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We are the answer to any internet issue faced today!",
+        'videoID' => "iaif5BxYuNU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Stranded? Don't worry!",
+        'videoID' => "wKYE2voQBPM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Is the internet safe under the sea?",
+        'videoID' => "8Y4rnM3rELM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "3 Hours a Day Streaming?!",
+        'videoID' => "GDxzFhzV7jc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "One thing we don't want to worry about is our food production!",
+        'videoID' => "hfMw6OkD4cA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Listen to how important having a satellite internet connection is to people in certain fields",
+        'videoID' => "hxowUyN2ef4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "There's 36 billion acres of land",
+        'videoID' => "o6CxRHxmiIw",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Everyone deserves the internet and we want to make that a reality!",
+        'videoID' => "lvjjPrwX49A",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Vulnerable Residents at Risk California Battles for Landline Access in Tech Age",
+        'videoID' => "HvP0grKCGoc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "SpaceX Starlink on Track for $6 6 Billion Revenue in 2024",
+        'videoID' => "kTIFknQkXGs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "NYC Class Size Crunch: Can Virtual Learning Bridge the Gap?",
+        'videoID' => "ec0QKBF3-g0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite internet is a necessity to many and is a true life-changer",
+        'videoID' => "aPtt2DAepZo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Double the data, double the opportunity",
+        'videoID' => "noK_MV7eggo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Imagine a world with NO dead zones",
+        'videoID' => "_Q6_FNPaxh4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+
+    [
+        'title' => "Heavy Weights",
+        'videoID' => "tkYpTT9AihA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "36 billion acres with NO signal!",
+        'videoID' => "5n5ddbuU6FA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Global titans launching internet satellites?",
+        'videoID' => "X2lRGn44fRQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satenna: A Communication Lifeline in the Face of Natural Disasters",
+        'videoID' => "BR8E7jcqty0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "TikTok is back to normal!",
+        'videoID' => "ezmeavituaQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Space War: U.S. Space Command and the Need for Unified Satellite Defense",
+        'videoID' => "e0DLvVkG610",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Future of Internet Connectivity Satenna's Potential to Revolutionize Access",
+        'videoID' => "EtNTpjBzL7s",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Ocean Cables",
+        'videoID' => "yciCDzMbm5k",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "California Fights Google Over News Pay",
+        'videoID' => "2h-q6eQ1kvA",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Divide: Music on Mute",
+        'videoID' => "IUlY0UUnOrg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Denver Gazette",
+        'videoID' => "l9IHYSix7l8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Locations & FIU Collaboration A Team Approach to Satenna Tech",
+        'videoID' => "DzOmRnQXPpg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "AI for All Web Gap Barrier",
+        'videoID' => "GJj7UkHxcIo",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Locations & FIU Showcase Milestone: Satenna Tech Prototype Ready for Demo",
+        'videoID' => "g8PnzCS2xMM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satenna Technology On The Road To Revolutionizing Satellite Internet Through Smartphone Innovation",
+        'videoID' => "cALYGIAvbeQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Locations & FIU Explore Satenna Technology's Impact on National Security",
+        'videoID' => "htgDmC9Z6I4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Global Connectivity on Demand: The Rise of Direct Phone-to-Satellite Communication",
+        'videoID' => "sHxHPLtInJM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The Future of Mobile Connectivity: Rich Berliner at FIU's Digital Research Lab",
+        'videoID' => "dFfn0dma4LM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Space News",
+        'videoID' => "JmVr_6P4AK8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "A close call between a dead Russian satellite and a NASA one shows the dangers of space debris",
+        'videoID' => "IDAXUysBNiI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "30 Billion And Counting",
+        'videoID' => "Pzt_8mBTIpE",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Say No to Cable & Towers: Satellite Offers Unlimited Web Access Anywhere",
+        'videoID' => "3objwKFGg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Endless possibilities and endless advancements satellite internet can provide!",
+        'videoID' => "yz2upyfIwys",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Spy Satellite",
+        'videoID' => "4K6WWo10tG0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Divide",
+        'videoID' => "RnptluYmKx0",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Pentagon Invests $13 Billion in Satellite Communication",
+        'videoID' => "MT7qtfKuBxw",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite Solutions: Bridging the Digital Divide for Seniors",
+        'videoID' => "vIG4cGOguJI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Visiting FIU to see the advancements our amazing team is making is nothing less than spectacular!",
+        'videoID' => "OYD29Z9YFUM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Cities Stuck Space Potentially Can Deliver High Speed Freedom",
+        'videoID' => "f8YCXeCqN5c",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Beyond Rain Fade Weatherproof Your Internet",
+        'videoID' => "UlwzfHzlbQc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The History of Phone Networks (P3)",
+        'videoID' => "Hi4zd_6dUTk",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The History of Phone Networks (P2)",
+        'videoID' => "Y91xnJ_T8H8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The History of Phone Networks",
+        'videoID' => "GhNkH-xiCPg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite 2024 conference and exhibition",
+        'videoID' => "xCzPCDmuu8I",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Rich Berliner and Dr. Elias Alwan",
+        'videoID' => "E9IC1SKVAdE",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Space Pioneering With Satenna",
+        'videoID' => "Se5zqFqR2Fg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Space Internet is Here!",
+        'videoID' => "8g32vQXkrjY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Tired of unreliable internet?",
+        'videoID' => "1GF6ckN8jUg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satenna Delivers Internet Freedom!",
+        'videoID' => "SRpPuPXL8yQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Space Race 2.0: The Battle for Satellite Internet",
+        'videoID' => "NMybLaMIkn8",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Game Changing",
+        'videoID' => "QZ9hMiL0Gbs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "This is the future of mobile freedom.",
+        'videoID' => "LC9P79wF0_U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "This is the future of mobile freedom.",
+        'videoID' => "ZUhj6iYRlNg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "FCC Blazing A Trail for Satellite Internet!",
+        'videoID' => "x_6zRXELR0c",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Closing the Gap: $875 Billion Market Craving Connection",
+        'videoID' => "Fk4KS9XFKVY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Forget Wi-Fi Woes! Say Hello to Freedom with Satenna.",
+        'videoID' => "RUfLqtD8ZCU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "High speed internet is a priority!",
+        'videoID' => "o9NLvFtfbU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
         'title' => "36 billion reasons to ditch dead zones!",
         'videoID' => "OoNIAPNZuK4",
         'category' => "short",
