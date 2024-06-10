@@ -355,7 +355,7 @@ $videos = [
         'scope' => 'public'
     ],
     [
-        'title' => "Listen to how important having a satellite internet connection is to people in certain fields",
+        'title' => "Listen to how important having a satellite internet connection is to people in certain fields.",
         'videoID' => "hxowUyN2ef4",
         'category' => "short",
         'scope' => 'public'
@@ -652,6 +652,18 @@ $videos = [
     [
         'title' => "Game Changing",
         'videoID' => "QZ9hMiL0Gbs",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Did you know Elon Musk has over 5,000 satellites in space??",
+        'videoID' => "LC9P79wF0_U",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Digital Locations and FIU",
+        'videoID' => "rJYODJyuN9o",
         'category' => "short",
         'scope' => 'public'
     ],
@@ -1634,24 +1646,6 @@ $videos = [
     [
         'title' => "Do you know the first words ever said over the telephone?",
         'videoID' => "QwVD4ZrYn1U",
-        'category' => "short",
-        'scope' => 'public'
-    ],
-    [
-        'title' => "Satellite to Cell Phone",
-        'videoID' => "DJcWoUHNJc8",
-        'category' => "short",
-        'scope' => 'public'
-    ],
-    [
-        'title' => "Connecting the gap: Satellite internet revolutionizes rural areas.",
-        'videoID' => "IOW-Dzzc-24",
-        'category' => "short",
-        'scope' => 'public'
-    ],
-    [
-        'title' => " We understand the internet is like a lifeline to friends and entertainment to the younger generation",
-        'videoID' => "GTjnowRBH98",
         'category' => "short",
         'scope' => 'public'
     ],
