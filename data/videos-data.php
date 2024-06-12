@@ -337,6 +337,12 @@ $videos = [
         'scope' => 'public'
     ],
     [
+        'title' => "Lunar exploration is booming!",
+        'videoID' => "wFutckmGVqQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
         'title' => "Is the internet safe under the sea?",
         'videoID' => "8Y4rnM3rELM",
         'category' => "short",
@@ -699,7 +705,7 @@ $videos = [
     ],
     [
         'title' => "High speed internet is a priority!",
-        'videoID' => "o9NLvFtfbU",
+        'videoID' => "-o9NLvFtfbU",
         'category' => "short",
         'scope' => 'public'
     ],
