@@ -307,6 +307,222 @@ $videos = [
 
     // shorts
     [
+        'title' => "We understand how important space is for the future of humanity.",
+        'videoID' => "YT4LX_9c4yg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Botswana is planning to launch a powerful satellite",
+        'videoID' => "G0VlOeBzUiY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Esports",
+        'videoID' => "8W2FU-A742M",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Traveling Americans",
+        'videoID' => "uQKSYQx1MII",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Esports is in the Olympics!",
+        'videoID' => "oGsrSa9qEpI",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Our work is a want that is turning into a necessity for sustainability and connectivity!",
+        'videoID' => "rAvGIFWemLg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Esports will need satellites!",
+        'videoID' => "tmLlwp81b8g",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "???",
+        'videoID' => "pE7E4pfiq1E",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "What could it be???",
+        'videoID' => "6CqCzkkL8PM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We understand how important space is for the future of humanity.",
+        'videoID' => "YT4LX_9c4yg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "China will not be left behind when it comes to the future of satellite internet!",
+        'videoID' => "b_aX-Nr475s",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Elon is relentless in his pursuit and so are we!",
+        'videoID' => "D38yzqnuV0Q",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The LARGEST HUMAN MADE OBJECT EVER to orbit the planet.",
+        'videoID' => "cM8YefjmDWg",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Cargo and container ships are going digital with satellite internet",
+        'videoID' => "b_aX-Nr475s",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "From outer space to covering every space!",
+        'videoID' => "6H6_VklwOvY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Major players are playing and we are playing to win!",
+        'videoID' => "iJyZUqIuBpU",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "A statistic that will stick with you!",
+        'videoID' => "_TthoFT74sQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Who will be the dominator in the satellite space?",
+        'videoID' => "p8f4Ds0Ksro",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Elon is on the way to owning space",
+        'videoID' => "3TnEneJ5hdM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "We are creating a device that will connect satellites to cell phones",
+        'videoID' => "yCzZ2d6rktQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Satellite internet is a necessity in today's world!",
+        'videoID' => "3TnEneJ5hdM",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "These networks will need a device-side solution to handle the important data and communications",
+        'videoID' => "d-tzAJrRwl4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Ships now require always-on access to high speed internet for navigation and other functions.",
+        'videoID' => "1xIcwuRy0Nc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Jeff Bezos and Elon will want to work with us because of device is a necessity!",
+        'videoID' => "4UJ_ANyn3aE",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The future of broadband internet and communications is in space and China is here to play!",
+        'videoID' => "s_UQlrpe5ps",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "No matter who wins out or what network wins out",
+        'videoID' => "RWT5s9Ue4SY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The billions of dollars that companies around the world have allocated for satellite communications",
+        'videoID' => "QByhJNSJ2Ag",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "MrBeast is must-see TV - well, must-see YouTube",
+        'videoID' => "ywe2L9eLdZ4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Jeff Bezos & Elon Musk will need us, no matter what!",
+        'videoID' => "9SXwxued4Q4",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Tom Brady has a new style of Live TV and it will shake the room!",
+        'videoID' => "6W0mt1Sc0wc",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "The public has little tolerance for slow connections in buffering",
+        'videoID' => "0GmBr0uYLBE",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Netflix is going LIVE now!",
+        'videoID' => "c_Lip-S721s",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Wait, Tom Brady lost a ring?",
+        'videoID' => "qYhiDtyzfmY",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Here at Digital Locations, we're developing Satenna as a direct satellite to smartphone solution.",
+        'videoID' => "7RKgQgRD4OQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Taiwan recognizes the importance of satellite communications for national security!",
+        'videoID' => "FTj_fNvZe8A",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
+        'title' => "Netflix moved into live sports and events.",
+        'videoID' => "7RKgQgRD4OQ",
+        'category' => "short",
+        'scope' => 'public'
+    ],
+    [
         'title' => "25 students per class in NYC?! Will this work?",
         'videoID' => "FpWYZGC4wvc",
         'category' => "short",
