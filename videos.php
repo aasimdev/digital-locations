@@ -115,10 +115,16 @@ include('header.php'); ?>
                 return $item['category'] === 'short'  && $item['scope'] === 'public';
             });
             foreach ($filteredNewsCommentary as $video) {
+                $videoID = $video['videoID'];
+                if ($videoID === 'zwCbO_29ec8') {
+                    $thumbnailUrl = "https://img.youtube.com/vi/{$videoID}/sddefault.jpg";
+                } else {
+                    $thumbnailUrl = "https://img.youtube.com/vi/{$videoID}/maxresdefault.jpg";
+                }
                 echo "  <div class=\"col\">
                 <div class=\"podcast__item\">
                     <div class=\"podcast__itemThumbnail\">
-                        <img src=\"https://img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg\" alt=\"chat\">
+                        <img src=\"{$thumbnailUrl}\" alt=\"chat\">
                         <a href=\"/single-video?id={$video['videoID']}\" class=\"podcast__play\">
                             <svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">
                                 <g clip-path=\"url(#clip0_54_3118)\">
