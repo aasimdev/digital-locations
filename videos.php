@@ -108,13 +108,17 @@ include('header.php'); ?>
     <div class="container">
         <div class="podcast__heading">
             <h2>Short Videos</h2>
+            <a href="/short-videos">See All <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
+                    <path d="M6 0.980469L4.9425 1.97637L9.1275 5.92464H0V7.33727H9.1275L4.9425 11.2855L6 12.2814L12 6.63095L6 0.980469Z" fill="#ff4800" />
+                </svg></a>
         </div>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
             <?php
-            $filteredNewsCommentary = array_filter($videos, function ($item) {
+            $filteredShortVideos = array_filter($videos, function ($item) {
                 return $item['category'] === 'short'  && $item['scope'] === 'public';
             });
-            foreach ($filteredNewsCommentary as $video) {
+            $latestShortVideos = array_slice($filteredShortVideos, 0, 4);
+            foreach ($latestShortVideos as $video) {
                 $videoID = $video['videoID'];
                 if ($videoID === 'zwCbO_29ec8') {
                     $thumbnailUrl = "https://img.youtube.com/vi/{$videoID}/sddefault.jpg";
