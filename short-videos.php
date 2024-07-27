@@ -15,7 +15,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
         $showAllVideo = 0;
     }
 } else {
-    if($current_url !== $current_url_check . '/short-videos/'){
+    if($current_url !== $current_url_check . '/short-videos'){
         $showAllVideo = 0;
     }
 }
