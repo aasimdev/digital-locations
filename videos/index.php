@@ -2,8 +2,8 @@
 $GLOBALS['title'] = "Videos - Digital Locations";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";
-$videos = include "./data/videos-data.php";
-include('header.php'); ?>
+$videos = include "../data/videos-data.php";
+include('../header.php'); ?>
 
 <section class="mbanner nographic" style="background-image: url(./assets/img/market-bg.png);">
     <div class="container">
@@ -13,9 +13,9 @@ include('header.php'); ?>
 
 <section class="podcastIntro">
     <div class="container">
-        <img src="./assets/img/podcast.jpg" class="d-none d-md-block" alt="podcast">
+        <img src="../assets/img/podcast.jpg" class="d-none d-md-block" alt="podcast">
         <div class="podcastIntro__img d-md-none">
-            <img src="./assets/img/podcast-mobile.jpg" alt="podcast">
+            <img src="../assets/img/podcast-mobile.jpg" alt="podcast">
         </div>
 
         <p>Watch our CEO, Rich Berliner, chat with leaders and experts in the wireless industry about trends, insights as well as progress with Digital Locations</p>
@@ -108,7 +108,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="podcast__heading">
             <h2>Short Videos</h2>
-            <a href="/short-videos">See All <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
+            <a href="./short-videos">See All <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
                     <path d="M6 0.980469L4.9425 1.97637L9.1275 5.92464H0V7.33727H9.1275L4.9425 11.2855L6 12.2814L12 6.63095L6 0.980469Z" fill="#ff4800" />
                 </svg></a>
         </div>
@@ -151,4 +151,4 @@ include('header.php'); ?>
     </div>
 </section>
 <?php
-include('footer.php'); ?>
+include('../footer.php'); ?>
