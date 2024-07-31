@@ -2,6 +2,18 @@
 
 $videos = [
     [
+        'title' => "July 29, 2024 - David A Barnhart - University of Southern California",
+        'videoID' => "-mNxfcDxYnw",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
+        'title' => "July 19, 2024 - Jeff Volosin - Retired NASA Executive",
+        'videoID' => "oS6PGO49A40",
+        'category' => "ceo-podcast",
+        'scope' => 'private'
+    ],
+    [
         'title' => "July 29, 2024 - Digital Locations News Commentary",
         'videoID' => "ihbEtlfaH7w",
         'category' => "news-commentary",
