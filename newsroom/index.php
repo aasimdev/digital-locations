@@ -16,6 +16,12 @@ include('../header.php'); ?>
         <?php
         $data = [
             [
+                'title' => "Digital Locations CEO Rich Berliner Discussed Efficient Movement of Space to Earth Data with Retired NASA Executive",
+                'date' => 'July 31, 2024',
+                'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of a disruptive technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that in a recent podcast, its CEO, Rich Berliner, spoke with Professor Jeff Volosin, an aeronautical engineer and retired NASA executive with over 38 years of experience in the space industry and government, about the efficient movement of data between space and Earth...',
+                'newLink' => "digital-locations-ceo-rich-berliner-discusse-efficient-movement-of-space-to-earth-data-with-retired-nasa-executive"
+            ],
+            [
                 'title' => "Digital Locations Extends Its Agreement with Florida International University (FIU) to Continue Satenna™ Research",
                 'date' => 'May 29, 2024',
                 'description' => 'Digital Locations, Inc. (OTCMKTS:DLOC), the developer of Satenna™, a breakthrough technology that will deliver high-speed Internet from satellites directly to smartphones all over the world, today announced that it has extended its research agreement with Florida International University (FIU) to continue the Satenna™ research that it began a year ago...',
